@@ -35,6 +35,11 @@ __Bachelor of Arts__, Theology & Philosophy, summa cum laude
 
 ### experience
 
+`2021–`
+**Assistant Professor**, Department of Theology and Franciscan Studies, St. Bonaventure University (to begin August 2021)
+- THFS-101 "The Way of Francis and Clare"
+- THFS-235 "Catholic Theology"
+
 `2018–20`
 **Teaching Assistant**, Theology Department, Boston College
 - THEO-1016/1017 "Introduction to Christian Theology I & II," with Boyd Taylor Coolman
