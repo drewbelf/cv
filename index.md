@@ -6,8 +6,8 @@ title: cv
 curriculum vitae
 
 <div id="webaddress">
-<a href="mailto:belfield@bc.edu">belfield@bc.edu</a>
-| <a href="https://www.bc.edu/content/bc-web/schools/mcas/departments/theology/people/grad-students/andrew-belfield.html">140 Commonwealth Ave, Chestnut Hill, MA 02467</a>
+<a href="mailto:abelfiel@sbu.edu">abelfiel@sbu.edu</a>
+| <a href="https://www.sbu.edu/academics/theology-and-franciscan-studies">3261 West State Road, St. Bonaventure, N.Y. 14778</a>
 | <a href="http://andrewbelfield.com/">andrewbelfield.com</a>
 </div>
 
