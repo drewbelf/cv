@@ -36,7 +36,7 @@ __Bachelor of Arts__, Theology & Philosophy, summa cum laude
 ### experience
 
 `2021–`
-**Assistant Professor**, Department of Theology and Franciscan Studies, St. Bonaventure University (to begin August 2021)
+**Assistant Professor**, Department of Theology and Franciscan Studies, St. Bonaventure University
 - THFS-101 "The Way of Francis and Clare"
 - THFS-235 "Catholic Theology"
 
@@ -64,6 +64,8 @@ __[Apprenticeship in College Teaching](https://www.bc.edu/content/bc-web/academi
 “Raining on the Absurd: Entering into Solitude with Thomas Merton.” *The Reed* 16 (2014): 35–45.
 
 ### book reviews
+
+Of Thomas Merton, Patrick F. O'Connell (ed.), *Cistercian Fathers and Forefathers: Essays and Conferences* (New City Press, 2018), in [*Reading Religion* (forthcoming)](https://readingreligion.org/books/cistercian-fathers-and-forefathers).
 
 Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic Profession in Medieval Paris* (Fordham University Press, 2018), in [*Reading Religion* (2021)](https://readingreligion.org/books/ecstasy-classroom).
 
@@ -234,4 +236,4 @@ Spanish
 
 ## last updated
 
-June 2021
+October 2021
