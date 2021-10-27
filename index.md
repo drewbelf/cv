@@ -14,7 +14,8 @@ curriculum vitae
 
 ## education
 
-__Doctor of Philosophy__, Theology (in progress)
+`2021`
+__Doctor of Philosophy__, Theology
 - Boston College
 - Specialization: Historical & Systematic Theology
 - Dissertation: "Foundations of scholastic christology in the *Summa halensis*"
@@ -132,6 +133,15 @@ Response to John R. Kern, “Dionysian Hierarchy in Thomas Aquinas’s Late Paul
 "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola University Marland. November 19.
 
 ## service
+
+### to SBU
+
+`2021–`
+
+__Working Group Member__, Mission and Goals, Middle States accreditation
+
+### past
+
 `2020–21`
 __Graduate Assistant__ to the Theology Department, Boston College
 
@@ -155,8 +165,6 @@ Updated [online study guide](https://bcs.wiley.com/he-bcs/Books?action=index&bcs
 `2015–17`
 __Graduate Assistant__ to Campus Ministry, Loyola University Maryland
 
-`2012–15`
-__Resident Assistant__, St. Bonaventure University
 
 ## honors, awards, & fellowships
 `2018`
