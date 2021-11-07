@@ -64,6 +64,10 @@ __[Apprenticeship in College Teaching](https://www.bc.edu/content/bc-web/academi
 `2014`
 “Raining on the Absurd: Entering into Solitude with Thomas Merton.” *The Reed* 16 (2014): 35–45.
 
+### translations
+
+Of Alexander of Hales's *Glossa in quatuor libros Sententiarum Petri Lombardi*, Book III (in Dallas Medieval Texts & Translations), in progress.
+
 ### book reviews
 
 Of Thomas Merton, Patrick F. O'Connell (ed.), *Cistercian Fathers and Forefathers: Essays and Conferences* (New City Press, 2018), in [*Reading Religion* (forthcoming)](https://readingreligion.org/books/cistercian-fathers-and-forefathers).
