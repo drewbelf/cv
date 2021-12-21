@@ -141,7 +141,6 @@ Response to John R. Kern, “Dionysian Hierarchy in Thomas Aquinas’s Late Paul
 ### to SBU
 
 `2021–`
-
 __Working Group Member__, Mission and Goals, Middle States accreditation
 
 ### past
