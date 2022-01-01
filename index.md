@@ -38,7 +38,7 @@ __Bachelor of Arts__, Theology & Philosophy, summa cum laude
 
 `2021–`
 **Assistant Professor**, Department of Theology and Franciscan Studies, St. Bonaventure University
-- [THFS]{.smallcaps}-101 "The Way of Francis and Clare"
+- <span style="font-variant:small-caps;">thfs</span>-101 "The Way of Francis and Clare"
 - THFS-235 "Catholic Theology"
 - THFS-261 "Jesus through the Centuries"
 
