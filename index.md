@@ -38,8 +38,9 @@ __Bachelor of Arts__, Theology & Philosophy, summa cum laude
 
 `2021–`
 **Assistant Professor**, Department of Theology and Franciscan Studies, St. Bonaventure University
-- THFS-101 "The Way of Francis and Clare"
+- [THFS]{.smallcaps}-101 "The Way of Francis and Clare"
 - THFS-235 "Catholic Theology"
+- THFS-261 "Jesus through the Centuries"
 
 `2018–20`
 **Teaching Assistant**, Theology Department, Boston College
@@ -233,18 +234,17 @@ Spanish
 ## academic associations
 
 `2021–`
-[Catholic Theological Society of America](https://www.ctsa-online.org/) (Associate Member)  
-[College Theology Society](http://www.collegetheology.org/)  
+[Catholic Theological Society of America](https://www.ctsa-online.org/) (Associate Member; applied for Active Membership)  
+[College Theology Society](http://www.collegetheology.org/) (Full Professional Member)  
 [Medieval Academy of America](https://www.medievalacademy.org/)
 
 `2017–`
-[American Academy of Religion](https://www.aarweb.org/)
+[American Academy of Religion](https://www.aarweb.org/) (Professional Member)
 
 `2017`
 [Theta Alpha Kappa](https://thetaalphakappa.org/)  
 [Alpha Sigma Nu](https://www.alphasigmanu.org/)
 
-
 ## last updated
 
-October 2021
+January 2022
