@@ -241,7 +241,7 @@ Spanish
 `2021–`
 [Catholic Theological Society of America](https://www.ctsa-online.org/) (Associate Member; application for Active Membership under review)  
 [College Theology Society](http://www.collegetheology.org/) (Full Professional Member)  
-[Medieval Academy of America](https://www.medievalacademy.org/)
+[Medieval Academy of America](https://www.medievalacademy.org/) (Active Member)
 
 `2017–`
 [American Academy of Religion](https://www.aarweb.org/) (Professional Member)
