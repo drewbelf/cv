@@ -144,6 +144,11 @@ Response to John R. Kern, “Dionysian Hierarchy in Thomas Aquinas’s Late Paul
 `2021–`
 __Working Group Member__, Mission and Goals, Middle States accreditation
 
+### to the guild
+
+`2022–`
+**Book Review Editor**, *Franciscan Studies*
+
 ### past
 
 `2020–21`
