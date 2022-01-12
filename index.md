@@ -44,9 +44,9 @@ __Bachelor of Arts__, Theology & Philosophy, summa cum laude
 
 `2018–20`
 **Teaching Assistant**, Theology Department, Boston College
-- <span style="font-variant:small-caps;">thfs</span>-1016/1017 "Introduction to Christian Theology I & II," with Boyd Taylor Coolman
-- <span style="font-variant:small-caps;">thfs</span>-1019/<span style="font-variant:small-caps;">phil</span>-1019 "Perspectives in Western Culture II," with [Andrew Prevot](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/andrew-l-prevot.html)
-- <span style="font-variant:small-caps;">thfs</span>-1402 "God, Self, and Society," with [Brian Robinette](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/brian-robinette.html)
+- <span style="font-variant:small-caps;">theo</span>-1016/1017 "Introduction to Christian Theology I & II," with Boyd Taylor Coolman
+- <span style="font-variant:small-caps;">theo</span>-1019/<span style="font-variant:small-caps;">phil</span>-1019 "Perspectives in Western Culture II," with [Andrew Prevot](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/andrew-l-prevot.html)
+- <span style="font-variant:small-caps;">theo</span>-1402 "God, Self, and Society," with [Brian Robinette](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/brian-robinette.html)
 
 
 ### training
@@ -239,7 +239,7 @@ Spanish
 ## academic associations
 
 `2021–`
-[Catholic Theological Society of America](https://www.ctsa-online.org/) (Associate Member; applied for Active Membership)  
+[Catholic Theological Society of America](https://www.ctsa-online.org/) (Associate Member; application for Active Membership under review)  
 [College Theology Society](http://www.collegetheology.org/) (Full Professional Member)  
 [Medieval Academy of America](https://www.medievalacademy.org/)
 
