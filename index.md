@@ -89,6 +89,9 @@ Of Denis Edwards, *Deep Incarnation: God’s Redemptive Suffering with Creatures
 
 ### academic
 
+`2022`
+Proposal accepted for "Christology in Bonaventure and Thomas Aquinas." Conference on Medieval Philosophy and Theology. University of Notre Dame. May 20–22.
+
 `2021`
 "Christ's Penitential Human Nature: The *coassumpta* according to the *Summa halensis*." Historical Theology Colloquium. Boston College. April 20.
 
@@ -148,6 +151,10 @@ __Working Group Member__, Mission and Goals, Middle States accreditation
 
 `2022–`
 **Book Review Editor**, *Franciscan Studies*
+
+`2022`
+**Co-organizer** (with John R. Kern, Pepperdine University), "Franciscan/Dominican Conversations in the Thirteenth Century" Panel, Conference on Medieval Philosophy and Theology, University of Notre Dame
+
 
 ### past
 
