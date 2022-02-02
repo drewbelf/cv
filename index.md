@@ -73,9 +73,8 @@ Of Alexander of Hales's *Glossa in quatuor libros Sententiarum Petri Lombardi*, 
 
 Of Thomas Merton, Patrick F. O'Connell (ed.), *Cistercian Fathers and Forefathers: Essays and Conferences* (New City Press, 2018), in [*Reading Religion* (forthcoming)](https://readingreligion.org/books/cistercian-fathers-and-forefathers).
 
+`2021`
 Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic Profession in Medieval Paris* (Fordham University Press, 2018), in [*Reading Religion* (2021)](https://readingreligion.org/books/ecstasy-classroom).
-
-Of Denis Edwards, *Deep Incarnation: God’s Redemptive Suffering with Creatures* (Orbis Books, 2019), in *Anglican Theological Review* (forthcoming).
 
 ### other essays
 
@@ -259,4 +258,4 @@ Spanish
 
 ## last updated
 
-January 2022
+February 2022
