@@ -93,7 +93,7 @@ Proposal accepted for "Christology in Bonaventure and Thomas Aquinas." Paper on 
 `2021`
 "Christ's Penitential Human Nature: The *coassumpta* according to the *Summa halensis*." Historical Theology Colloquium. Boston College. April 20.
 
-“Basic Human Communities: An Alternative to Zoom Worship in the Era of <span style="font-variant:small-caps;">covid</span>.” Graduate Student Conference on Pandemic & Religion. The Boisi Center for Religion and American Public Life. Boston College ([online due to COVID-19](https://www.bc.edu/content/bc-web/centers/boisi-center/events/archive/spring-2021-events/pandemic-and-religion.html#paper_session_iii_b_religious_institutions_and_practices_)). February 27. Coauthored with Laurel Marshall Potter (Boston College), Kelly Kossar (Congregation Kehillath Israel), and Elli Pripas (Hebrew College).
+“Basic Human Communities: An Alternative to Zoom Worship in the Era of <span style="font-variant:small-caps;">covid</span>.” Graduate Student Conference on Pandemic & Religion. The Boisi Center for Religion and American Public Life. Boston College ([online due to <span style="font-variant:small-caps;">covid</span>-19](https://www.bc.edu/content/bc-web/centers/boisi-center/events/archive/spring-2021-events/pandemic-and-religion.html#paper_session_iii_b_religious_institutions_and_practices_)). February 27. Coauthored with Laurel Marshall Potter (Boston College), Kelly Kossar (Congregation Kehillath Israel), and Elli Pripas (Hebrew College).
 
 `2020`
 “Who Is *iste homo* Jesus? A Halensian Contribution.” Christ among the Disciplines. Online interdisciplinary conference. December 11–13.
