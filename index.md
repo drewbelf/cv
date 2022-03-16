@@ -88,13 +88,12 @@ Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic P
 
 ### academic
 
-`2022`
-Proposal accepted for "Christology in Bonaventure and Thomas Aquinas." Conference on Medieval Philosophy and Theology. University of Notre Dame. May 20–22.
+Proposal accepted for "Christology in Bonaventure and Thomas Aquinas." Paper on the "Franciscan–Dominican Conversations in the Thirteenth Century" Panel. Conference on Medieval Philosophy and Theology. University of Notre Dame. May 20–22, 2022.
 
 `2021`
 "Christ's Penitential Human Nature: The *coassumpta* according to the *Summa halensis*." Historical Theology Colloquium. Boston College. April 20.
 
-“Basic Human Communities: An Alternative to Zoom Worship in the Era of COVID.” Graduate Student Conference on Pandemic & Religion. The Boisi Center for Religion and American Public Life. Boston College ([online due to COVID-19](https://www.bc.edu/content/bc-web/centers/boisi-center/events/archive/spring-2021-events/pandemic-and-religion.html#paper_session_iii_b_religious_institutions_and_practices_)). February 27. (Coauthored with Laurel Marshall Potter, Kelly Kossar, and Elli Pripas.)
+“Basic Human Communities: An Alternative to Zoom Worship in the Era of <span style="font-variant:small-caps;">covid</span>.” Graduate Student Conference on Pandemic & Religion. The Boisi Center for Religion and American Public Life. Boston College ([online due to COVID-19](https://www.bc.edu/content/bc-web/centers/boisi-center/events/archive/spring-2021-events/pandemic-and-religion.html#paper_session_iii_b_religious_institutions_and_practices_)). February 27. Coauthored with Laurel Marshall Potter (Boston College), Kelly Kossar (Congregation Kehillath Israel), and Elli Pripas (Hebrew College).
 
 `2020`
 “Who Is *iste homo* Jesus? A Halensian Contribution.” Christ among the Disciplines. Online interdisciplinary conference. December 11–13.
@@ -130,6 +129,9 @@ Response to John R. Kern, “Dionysian Hierarchy in Thomas Aquinas’s Late Paul
 “Raining on the Absurd: Existence and Solitude in Albert Camus and Thomas Merton.” Honors Program Symposium. St. Bonaventure University. April 18.
 
 ### invited
+`2022`
+Panelist. "A Colloquium of Companions: Closing Reflections." Ignatius Brady Lecture Series. April 7.
+
 `2017`
 “On the Prophetic Imagination.” Ignatian Solidarity Network Arrupe Leaders Summit Maryland, March 10–12.
 
@@ -152,7 +154,7 @@ __Working Group Member__, Mission and Goals, Middle States accreditation
 **Book Review Editor**, *Franciscan Studies*
 
 `2022`
-**Co-organizer** (with John R. Kern, Pepperdine University), "Franciscan/Dominican Conversations in the Thirteenth Century" Panel, Conference on Medieval Philosophy and Theology, University of Notre Dame
+**Co-organizer** (with John R. Kern, Pepperdine University), "Franciscan–Dominican Conversations in the Thirteenth Century" Panel, Conference on Medieval Philosophy and Theology, University of Notre Dame
 
 
 ### past
@@ -182,13 +184,14 @@ __Graduate Assistant__ to Campus Ministry, Loyola University Maryland
 
 
 ## honors, awards, & fellowships
+
+`2017–21`
+University Fellowship, Theology Department, Boston College
+
 `2018`
 3rd prize essay contest for “On the Fittingness of Filial Incarnation in Two Summae” at The Theology of Thomas Aquinas: Sources, Insights, and Influences, Mundelein Seminary
 
 Research Grant for study in Rome, Franciscan Institute, St. Bonaventure University
-
-`2017–`
-University Fellowship, Boston College Theology Department
 
 `2017`
 Research Grant for summer study, Franciscan Institute, St. Bonaventure University
@@ -222,15 +225,17 @@ Dean’s List, St. Bonaventure University
 Presidential Scholarship, St. Bonaventure University
 
 ## professional development
-`2018`
-[Research and Scholarship Integrity Program](https://www.bc.edu/bc-web/research/sites/vice-provost-for-research/integrity-and-compliance/research---scholarship-integrity-program.html), Morrissey College of Arts & Sciences, Boston College
-
 `2017–21`
 various professional development seminars, Theology Department, Boston College
 
+`2018`
+Title IX Traning, Office for Institutional Diversity, Boston College
+
+Research and Scholarship Integrity Program, Morrissey College of Arts & Sciences, Boston College
+
 ## research interests
 
-historical & systematic theology, medieval theology, mendicant theologies (especially Franciscans), patristic theology, christology, trinitarian theology, soteriology, medieval apocalypticism/Joachimism, twentieth-century Catholic *ressourcement* theology, Thomas Merton
+historical & systematic theology, medieval theology, mendicant theologies (especially Franciscans), patristic theology, christology, trinitarian theology, soteriology, medieval apocalypticism/Joachimism, liberation theologies
 
 ## research languages
 `ancient`
