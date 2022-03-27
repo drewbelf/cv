@@ -71,7 +71,8 @@ Of Alexander of Hales's *Glossa in quatuor libros Sententiarum Petri Lombardi*, 
 
 ### book reviews
 
-Of Thomas Merton, Patrick F. O'Connell (ed.), *Cistercian Fathers and Forefathers: Essays and Conferences* (New City Press, 2018), in [*Reading Religion* (forthcoming)](https://readingreligion.org/books/cistercian-fathers-and-forefathers).
+`2022`
+Of Thomas Merton, Patrick F. O'Connell (ed.), *Cistercian Fathers and Forefathers: Essays and Conferences* (New City Press, 2018), in [*Reading Religion* (2022)](https://readingreligion.org/books/cistercian-fathers-and-forefathers).
 
 `2021`
 Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic Profession in Medieval Paris* (Fordham University Press, 2018), in [*Reading Religion* (2021)](https://readingreligion.org/books/ecstasy-classroom).
@@ -144,6 +145,9 @@ Panelist. "A Colloquium of Companions: Closing Reflections." Ignatius Brady Lect
 ## service
 
 ### to SBU
+
+`2022–`
+**Student Advising**, Minor Program, Department of Theology & Franciscan Studies
 
 `2021–`
 __Working Group Member__, Mission and Goals, Middle States accreditation
@@ -263,4 +267,4 @@ Spanish
 
 ## last updated
 
-February 2022
+March 2022
