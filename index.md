@@ -147,11 +147,11 @@ Panelist. "A Colloquium of Companions: Closing Reflections." [Ignatius Brady Lec
 `2022–`
 **Student advising**, [Minor Program](https://catalog.sbu.edu/undergraduate/arts-sciences/theology/#text), Department of Theology & Franciscan Studies
 
-`2021–22`
-**Committee member**, Search for tenure-track hire in Theology & Franciscan Studies
-
 `2021–`
 **Committee member**, Self-Evaluation Committee for Middle States Accreditation Standard 1: Mission and Goals
+
+`2021–22`
+**Committee member**, Search for tenure-track hire in Theology & Franciscan Studies
 
 ### to the guild
 
@@ -268,15 +268,15 @@ Spanish
 
 ## references
 
-Boyd Taylor Coolman
+[Boyd Taylor Coolman](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/boyd-taylor-coolman.html)
 - Professor of Theology
 - Boston College
 
-Frederick Christian Bauerschmidt
+[Frederick Christian Bauerschmidt](https://www.loyola.edu/academics/theology/faculty)
 - Professor of Theology
 - Loyola University Maryland
 
-Brian Robinette
+[Brian Robinette](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/brian-robinette.html)
 - Associate Professor of Theology
 - Boston College
 
