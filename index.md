@@ -19,8 +19,8 @@ __Doctor of Philosophy__, Theology
 - Boston College
 - Specialization: Historical & Systematic Theology
 - Dissertation: "Foundations of scholastic christology in the *Summa halensis*"
-- Director: [Boyd Taylor Coolman](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/boyd-taylor-coolman.html)
-- Readers: [Michael C. Magree, S.J.](https://www.bc.edu/content/bc-web/schools/mcas/departments/theology/people/faculty-directory/michael-magree-sj.html); [Jeremy D. Wilkins](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/jeremy-wilkins.html); [Corey L. Barnes](https://www.oberlin.edu/corey-barnes)
+- Director: Boyd Taylor Coolman
+- Readers: Michael C. Magree, S.J.; Jeremy D. Wilkins; Corey L. Barnes
 
 `2017`
 __Master of Theological Studies__
@@ -46,8 +46,8 @@ __Bachelor of Arts__, Theology & Philosophy, summa cum laude
 `2018–20`
 **Teaching Assistant**, Theology Department, Boston College
 - <span style="font-variant:small-caps;">theo</span>-1016/1017 "Introduction to Christian Theology I & II," with Boyd Taylor Coolman
-- <span style="font-variant:small-caps;">theo</span>-1019/<span style="font-variant:small-caps;">phil</span>-1019 "Perspectives in Western Culture II," with [Andrew Prevot](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/andrew-l-prevot.html)
-- <span style="font-variant:small-caps;">theo</span>-1402 "God, Self, and Society," with [Brian Robinette](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/brian-robinette.html)
+- <span style="font-variant:small-caps;">theo</span>-1019/<span style="font-variant:small-caps;">phil</span>-1019 "Perspectives in Western Culture II," with Andrew Prevot
+- <span style="font-variant:small-caps;">theo</span>-1402 "God, Self, and Society," with Brian Robinette
 
 
 ### training
@@ -65,7 +65,7 @@ __[Apprenticeship in College Teaching](https://www.bc.edu/content/bc-web/academi
 
 ### translations
 
-Of Alexander of Hales's *Glossa in quatuor libros Sententiarum Petri Lombardi*, Book III (in Dallas Medieval Texts & Translations), in progress with [Eric Mabry](http://www.stmarys.edu/seminary/faculty/dr-eric-mabry/) (St. Mary's Seminary & University).
+Of Alexander of Hales's *Glossa in quatuor libros Sententiarum Petri Lombardi*, Book III (in Dallas Medieval Texts & Translations), in progress with Eric Mabry (St. Mary's Seminary & University).
 
 ### book reviews
 
@@ -129,7 +129,7 @@ Response to John R. Kern, “Dionysian Hierarchy in Thomas Aquinas’s Late Paul
 
 ### invited
 `2022`
-Panelist. "A Colloquium of Companions: Closing Reflections." [Ignatius Brady Lecture Series](https://www.sbu.edu/news/news-items/2021/07/07/franciscan-institute-at-st.-bonaventure-to-present-ignatius-brady-lecture-series). April 20. In conversation with [Fr. David Couturier, O.F.M. Cap.](https://www.sbu.edu/academics/faculty/couturier-fr.-david-b.-o.f.m.-cap-) (Franciscan Institute) and [Aaron Gies](https://www.sbu.edu/academics/theology-and-franciscan-studies/faculty/gies-aaron-m) (St. Bonaventure University).
+Panelist. "A Colloquium of Companions: Closing Reflections." [Ignatius Brady Lecture Series](https://www.sbu.edu/news/news-items/2021/07/07/franciscan-institute-at-st.-bonaventure-to-present-ignatius-brady-lecture-series). April 20. In conversation with Fr. David Couturier, O.F.M. Cap. (Franciscan Institute, St. Bonaventure University) and Aaron Gies (St. Bonaventure University).
 
 `2017`
 “On the Prophetic Imagination.” [Ignatian Solidarity Network](https://ignatiansolidarity.net/) [Arrupe Leaders Summit](https://ignatiansolidarity.net/programs/arrupe-leaders-summit/) Maryland, March 10–12.
@@ -145,7 +145,7 @@ Panelist. "A Colloquium of Companions: Closing Reflections." [Ignatius Brady Lec
 ### to SBU
 
 `2022–`
-**Student advising**, [Minor Program](https://catalog.sbu.edu/undergraduate/arts-sciences/theology/#text), Department of Theology & Franciscan Studies
+**Student advising**, Minor Program, Department of Theology & Franciscan Studies
 
 `2021–`
 **Committee member**, Self-Evaluation Committee for Middle States Accreditation Standard 1: Mission and Goals
