@@ -2,8 +2,8 @@
 layout: cv
 title: cv
 ---
-# Andrew Gertner Belfield
-curriculum vitae
+# Andrew Gertner Belfield, Ph.D.
+assistant professor of theology & Franciscan studies
 
 <div id="webaddress">
 <a href="mailto:abelfiel@sbu.edu">abelfiel@sbu.edu</a>
@@ -51,11 +51,8 @@ __Bachelor of Arts__, Theology & Philosophy, summa cum laude
 
 ### training
 
-`2017–`
-__[Apprenticeship in College Teaching](https://www.bc.edu/content/bc-web/academics/sites/center-for-teaching-excellence/programs-events/graduate-student-programs/Apprenticeship-In-College-Teaching.html)__, [Center for Teaching Excellence](https://www.bc.edu/content/bc-web/academics/sites/center-for-teaching-excellence.html), Boston College (in progress)
-- Attended seminars on course design, assignment design, active learning, creating effective learning environments, grading for learning, inclusive pedagogy, and other topics.
-- Observed faculty instruction and wrote a reflection essay drawing connections between faculty teaching practices and my own.
-- Developed a teaching philosophy articulating my learning goals, teaching methods, and means of assessment.
+`2022`
+__[Apprenticeship in College Teaching](https://www.bc.edu/content/bc-web/academics/sites/center-for-teaching-excellence/programs-events/graduate-student-programs/Apprenticeship-In-College-Teaching.html)__, [Center for Teaching Excellence](https://www.bc.edu/content/bc-web/academics/sites/center-for-teaching-excellence.html), Boston College
 
 
 ## publications
@@ -67,7 +64,7 @@ __[Apprenticeship in College Teaching](https://www.bc.edu/content/bc-web/academi
 
 ### translations
 
-Of Alexander of Hales's *Glossa in quatuor libros Sententiarum Petri Lombardi*, Book III (in Dallas Medieval Texts & Translations), in progress.
+Of Alexander of Hales's *Glossa in quatuor libros Sententiarum Petri Lombardi*, Book III (in Dallas Medieval Texts & Translations), in progress. With [Eric Mabry](http://www.stmarys.edu/seminary/faculty/dr-eric-mabry/) (St. Mary's Seminary & University).
 
 ### book reviews
 
@@ -131,10 +128,10 @@ Response to John R. Kern, “Dionysian Hierarchy in Thomas Aquinas’s Late Paul
 
 ### invited
 `2022`
-Panelist. "A Colloquium of Companions: Closing Reflections." Ignatius Brady Lecture Series. April 7.
+Panelist. "A Colloquium of Companions: Closing Reflections." [Ignatius Brady Lecture Series](https://www.sbu.edu/news/news-items/2021/07/07/franciscan-institute-at-st.-bonaventure-to-present-ignatius-brady-lecture-series). April 20. In conversation with [Fr. David Couturier, O.F.M. Cap.](https://www.sbu.edu/academics/faculty/couturier-fr.-david-b.-o.f.m.-cap-) (Franciscan Institute) and [Aaron Gies](https://www.sbu.edu/academics/theology-and-franciscan-studies/faculty/gies-aaron-m) (St. Bonaventure University).
 
 `2017`
-“On the Prophetic Imagination.” Ignatian Solidarity Network Arrupe Leaders Summit Maryland, March 10–12.
+“On the Prophetic Imagination.” [Ignatian Solidarity Network](https://ignatiansolidarity.net/) [Arrupe Leaders Summit](https://ignatiansolidarity.net/programs/arrupe-leaders-summit/) Maryland, March 10–12.
 
 `2016`
 “The Tower of Babel and Modern Technology.” Loyola University Maryland. September 30.
@@ -147,18 +144,18 @@ Panelist. "A Colloquium of Companions: Closing Reflections." Ignatius Brady Lect
 ### to SBU
 
 `2022–`
-**Student Advising**, Minor Program, Department of Theology & Franciscan Studies
+**Student Advising**, [Minor Program](https://catalog.sbu.edu/undergraduate/arts-sciences/theology/#text), Department of Theology & Franciscan Studies
 
 `2021–`
-__Working Group Member__, Mission and Goals, Middle States accreditation
+**Committee Member**, Self-Evaluation Committee for Middle States Accreditation Standard 1: Mission and Goals
 
 ### to the guild
 
 `2022–`
-**Book Review Editor**, *Franciscan Studies*
+**Book Review Editor**, *Franciscan Studies* (ISSN: [00805459](https://www.jstor.org/journal/franstud))
 
 `2022`
-**Co-organizer** (with John R. Kern, Pepperdine University), "Franciscan–Dominican Conversations in the Thirteenth Century" Panel, Conference on Medieval Philosophy and Theology, University of Notre Dame
+**Session Co-organizer** (with John R. Kern, Pepperdine University), "Franciscan–Dominican Conversations in the Thirteenth Century" Panel, Conference on Medieval Philosophy and Theology, University of Notre Dame
 
 
 ### past
@@ -267,4 +264,4 @@ Spanish
 
 ## last updated
 
-March 2022
+April 2022
