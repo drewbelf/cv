@@ -35,7 +35,7 @@ __Bachelor of Arts__, Theology & Philosophy, summa cum laude
 
 ## teaching
 
-### experience
+### appointments
 
 `2021–`
 **Assistant Professor**, Department of Theology and Franciscan Studies, St. Bonaventure University
