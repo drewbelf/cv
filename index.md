@@ -146,98 +146,101 @@ Panelist. "A Colloquium of Companions: Closing Reflections." [Ignatius Brady Lec
 ### to SBU
 
 `2022–`
-**Student advising**, Minor Program, Department of Theology & Franciscan Studies
+**Student advising**. Minor Program. Department of Theology & Franciscan Studies.
 
 `2021–`
-**Committee member**, Self-Evaluation Committee for Middle States Accreditation Standard 1: Mission and Goals
+**Committee member**. Self-Evaluation Committee for Middle States Accreditation Standard 1: Mission and Goals.
+
+`2022`
+**Session chair**. "Franciscan Models." Trust and the Franciscan Tradition. Second Annual *Franciscan Connections* Virtual Conference.
 
 `2021–22`
-**Committee member**, Search for tenure-track hire in Theology & Franciscan Studies
+**Committee member**. Search for tenure-track hire in Theology & Franciscan Studies.
 
 ### to the guild
 
 `2022–`
-**Book review editor**, *Franciscan Studies* (ISSN: [00805459](https://www.jstor.org/journal/franstud))
+**Book review editor**. *Franciscan Studies* (ISSN: [00805459](https://www.jstor.org/journal/franstud)).
 
 `2022`
-**Session co-organizer** (with John R. Kern, Pepperdine University), "Franciscan–Dominican Conversations in the Thirteenth Century," Conference on Medieval Philosophy and Theology, University of Notre Dame
+**Session co-organizer** (with John R. Kern, Pepperdine University). "Franciscan–Dominican Conversations in the Thirteenth Century." Conference on Medieval Philosophy and Theology. University of Notre Dame.
 
 
 ### past
 
 `2020–21`
-__Graduate assistant__ to the Theology Department, Boston College
+__Graduate assistant__ to the Theology Department. Boston College.
 
 `2020`
-__Subcommittee member__, Tenure and Promotion Process, Boston College School of Theology and Ministry
+__Subcommittee member__. Tenure and Promotion Process. Boston College School of Theology and Ministry.
 
-__Panel member__, “Living and Learning in Boston,” Boston College Theology Department Accepted Students’ Day, March 13
+__Panel member__. “Living and Learning in Boston.” Boston College Theology Department Accepted Students’ Day. March 13.
 
 `2019–20`
-__Co-organizer__ (with Christopher McLaughlin, Boston College), Historical Theology Colloquia, Boston College
+__Co-organizer__ (with Christopher McLaughlin, Boston College). Historical Theology Colloquia. Boston College.
 
 `2018–20`
-__Student mentor__ to incoming doctoral students, Boston College
+__Student mentor__ to incoming doctoral students. Boston College.
 
 `2017–18`
-__Research assistant__ to Jeremy D. Wilkins, Boston College
+__Research assistant__ to Jeremy D. Wilkins. Boston College.
 
 `2017`
-Updated [online study guide](https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=11326&itemId=1118869575) for Alister E. McGrath, Christian Theology: An Introduction, 6th ed. (Malden, Mass.: Wiley-Blackwell, 2017)
+Updated [online study guide](https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=11326&itemId=1118869575) for Alister E. McGrath, Christian Theology: An Introduction, 6th ed. (Malden, Mass.: Wiley-Blackwell, 2017).
 
 `2015–17`
-__Graduate assistant__ to Campus Ministry, Loyola University Maryland
+__Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 
 
 ## honors, awards, & fellowships
 
 `2017–21`
-**University Fellowship**, Theology Department, Boston College
+**University Fellowship**. Theology Department. Boston College.
 
 `2018`
-**3rd prize essay** for “On the Fittingness of Filial Incarnation in Two Summae” in Graduate Student Essay Contest at The Theology of Thomas Aquinas: Sources, Insights, and Influences, Mundelein Seminary
+**3rd prize essay** for “On the Fittingness of Filial Incarnation in Two Summae.” Graduate Student Essay Contest. The Theology of Thomas Aquinas: Sources, Insights, and Influences. Mundelein Seminary.
 
-**Research Grant** for study in Rome, Franciscan Institute, St. Bonaventure University
+**Research Grant** for study in Rome. Franciscan Institute. St. Bonaventure University.
 
 `2017`
-**Research Grant** for summer study, Franciscan Institute, St. Bonaventure University
+**Research Grant** for summer study. Franciscan Institute. St. Bonaventure University.
 
-**Award for Research in Theology**, Loyola University Maryland
+**Award for Research in Theology**. Loyola University Maryland.
 
 `2015–17`
-**Theological Studies Fellowship**, Loyola University Maryland
+**Theological Studies Fellowship**. Loyola University Maryland.
 
 `2015`
-**Ideal Bonaventure Man**, St. Bonaventure University
+**Ideal Bonaventure Student**. St. Bonaventure University.
 
-**Senior Theology Award**, St. Bonaventure University
+**Senior Theology Award**. St. Bonaventure University.
 
-**Sister Mary Anthony Brown Philosophy Award**, St. Bonaventure University
+**Sister Mary Anthony Brown Philosophy Award**. St. Bonaventure University.
 
-**Senior Achievement Award**, Department of Residence Life, St. Bonaventure University
+**Senior Achievement Award**. Department of Residence Life. St. Bonaventure University.
 
-**Daggy Student Scholarship**, International Thomas Merton Society
+**Daggy Student Scholarship**. International Thomas Merton Society.
 
 `2014`
-**‘High Pass’**, philosophy senior thesis defense, St. Bonaventure University
+**‘High Pass’**. philosophy senior thesis defense. St. Bonaventure University.
 
-**Commitment Award**, Department of Residence Life, St. Bonaventure University
+**Commitment Award**. Department of Residence Life. St. Bonaventure University.
 
 `2011–15`
-**Honors Program**, St. Bonaventure University
+**Honors Program**. St. Bonaventure University.
 
-**Dean’s List**, St. Bonaventure University
+**Dean’s List**. St. Bonaventure University.
 
-**Presidential Scholarship**, St. Bonaventure University
+**Presidential Scholarship**. St. Bonaventure University.
 
 ## professional development
 `2017–21`
-various professional development seminars, Theology Department, Boston College
+Various professional development seminars. Theology Department. Boston College.
 
 `2018`
-Title IX Training, Office for Institutional Diversity, Boston College
+Title IX Training. Office for Institutional Diversity. Boston College.
 
-Research and Scholarship Integrity Program, Morrissey College of Arts & Sciences, Boston College
+Research and Scholarship Integrity Program. Morrissey College of Arts & Sciences. Boston College.
 
 ## research interests
 
