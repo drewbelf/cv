@@ -162,7 +162,6 @@ Panelist. "A Colloquium of Companions: Closing Reflections." [Ignatius Brady Lec
 `2022`
 **Session chair**. "Franciscan Models." Trust and the Franciscan Tradition. Second Annual *Franciscan Connections* Virtual Conference.
 
-`2022`
 **Session co-organizer** (with [John R. Kern](https://seaver.pepperdine.edu/academics/faculty/john-kern/), Pepperdine University). "Franciscan–Dominican Conversations in the Thirteenth Century." Conference on Medieval Philosophy and Theology. University of Notre Dame.
 
 
