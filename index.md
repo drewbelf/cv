@@ -163,7 +163,7 @@ Panelist. "A Colloquium of Companions: Closing Reflections." [Ignatius Brady Lec
 **Session chair**. "Franciscan Models." Trust and the Franciscan Tradition. Second Annual *Franciscan Connections* Virtual Conference.
 
 `2022`
-**Session co-organizer** (with John R. Kern, Pepperdine University). "Franciscan–Dominican Conversations in the Thirteenth Century." Conference on Medieval Philosophy and Theology. University of Notre Dame.
+**Session co-organizer** (with [John R. Kern](https://seaver.pepperdine.edu/academics/faculty/john-kern/), Pepperdine University). "Franciscan–Dominican Conversations in the Thirteenth Century." Conference on Medieval Philosophy and Theology. University of Notre Dame.
 
 
 ### past
@@ -222,7 +222,7 @@ __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 **Daggy Student Scholarship**. International Thomas Merton Society.
 
 `2014`
-**‘High Pass’**. philosophy senior thesis defense. St. Bonaventure University.
+**‘High Pass’**. Philosophy senior thesis defense. St. Bonaventure University.
 
 **Commitment Award**. Department of Residence Life. St. Bonaventure University.
 
