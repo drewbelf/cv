@@ -151,9 +151,6 @@ Panelist. "A Colloquium of Companions: Closing Reflections." [Ignatius Brady Lec
 `2021–`
 **Committee member**. Self-Evaluation Committee for Middle States Accreditation Standard 1: Mission and Goals.
 
-`2022`
-**Session chair**. "Franciscan Models." Trust and the Franciscan Tradition. Second Annual *Franciscan Connections* Virtual Conference.
-
 `2021–22`
 **Committee member**. Search for tenure-track hire in Theology & Franciscan Studies.
 
@@ -161,6 +158,9 @@ Panelist. "A Colloquium of Companions: Closing Reflections." [Ignatius Brady Lec
 
 `2022–`
 **Book review editor**. *Franciscan Studies* (ISSN: [00805459](https://www.jstor.org/journal/franstud)).
+
+`2022`
+**Session chair**. "Franciscan Models." Trust and the Franciscan Tradition. Second Annual *Franciscan Connections* Virtual Conference.
 
 `2022`
 **Session co-organizer** (with John R. Kern, Pepperdine University). "Franciscan–Dominican Conversations in the Thirteenth Century." Conference on Medieval Philosophy and Theology. University of Notre Dame.
