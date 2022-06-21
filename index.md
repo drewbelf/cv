@@ -7,7 +7,7 @@ assistant professor of theology & Franciscan studies
 
 <div id="webaddress">
 <a href="mailto:abelfiel@sbu.edu">abelfiel@sbu.edu</a>
-| <a href="https://www.sbu.edu/academics/theology-and-franciscan-studies/faculty/belfield-andrew-g">3261 West State Road, St. Bonaventure, N.Y. 14778</a>
+| <a href="https://www.sbu.edu/academics/theology-and-franciscan-studies/faculty/belfield-andrew-g">3261 West State Road, St. Bonaventure, NY 14778</a>
 | <a href="http://andrewbelfield.com/">andrewbelfield.com</a>
 </div>
 
