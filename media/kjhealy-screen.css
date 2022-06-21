@@ -171,6 +171,7 @@ a:hover {
 
 #webaddress a {
 	text-decoration: none;
+	color: #aaa;
 }
 
 em {
