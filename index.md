@@ -7,7 +7,7 @@ assistant professor of theology & Franciscan studies
 
 <div id="webaddress">
 <a href="mailto:abelfiel@sbu.edu">abelfiel@sbu.edu</a>
-| <a href="https://www.sbu.edu/academics/theology-and-franciscan-studies/faculty/belfield-andrew-g">3261 West State Road, St. Bonaventure, NY 14778</a>
+| <a href="https://www.sbu.edu/academics/theology-and-franciscan-studies/faculty/belfield-andrew-g" target="_blank">3261 West State Road, St. Bonaventure, NY 14778</a>
 | <a href="http://andrewbelfield.com/">andrewbelfield.com</a>
 </div>
 
@@ -53,7 +53,7 @@ __Bachelor of Arts__, Theology & Philosophy, summa cum laude
 ### training
 
 `2022`
-__[Apprenticeship in College Teaching](https://www.bc.edu/content/bc-web/academics/sites/center-for-teaching-excellence/programs-events/graduate-student-programs/Apprenticeship-In-College-Teaching.html)__, [Center for Teaching Excellence](https://www.bc.edu/content/bc-web/academics/sites/center-for-teaching-excellence.html), Boston College
+__[Apprenticeship in College Teaching](https://www.bc.edu/content/bc-web/academics/sites/center-for-teaching-excellence/programs-events/graduate-student-programs/Apprenticeship-In-College-Teaching.html)__, Center for Teaching Excellence, Boston College
 
 
 ## publications
@@ -285,4 +285,4 @@ Spanish
 
 ## last updated
 
-April 2022
+June 2022
