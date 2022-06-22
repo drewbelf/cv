@@ -241,10 +241,6 @@ Title IX Training. Office for Institutional Diversity. Boston College.
 
 Research and Scholarship Integrity Program. Morrissey College of Arts & Sciences. Boston College.
 
-## research interests
-
-historical & systematic theology, medieval theology, mendicant theologies (especially Franciscans), patristic theology, christology, trinitarian theology, soteriology, medieval apocalypticism/Joachimism, liberation theologies
-
 ## research languages
 `ancient`
 Latin
