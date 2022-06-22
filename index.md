@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: cv
+title: cv. andrew belfield dot com
 ---
 # Andrew Gertner Belfield
 assistant professor of theology & Franciscan studies
