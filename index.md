@@ -58,18 +58,26 @@ __[Apprenticeship in College Teaching](https://www.bc.edu/content/bc-web/academi
 
 ## publications
 
-### peer-reviewed
+### monograph
 
-`2014`
-“Raining on the Absurd: Entering into Solitude with Thomas Merton.” *The Reed* 16 (2014): 35–45.
-
-### invited
-
-"Medieval Receptions." In *The Cambridge Companion to Christology*, edited by Timothy Pawl and Michael Peterson. Cambridge: Cambridge University Press, in progress.
+*Christ the Penitent: The Early Franciscans & Scholastic Christology*, in progress.
 
 ### translation
 
 Of Alexander of Hales's *Glossa in quatuor libros Sententiarum Petri Lombardi*, Book III (in Dallas Medieval Texts & Translations), in progress with Eric Mabry (St. Mary's Seminary & University).
+
+### essays & chapters
+
+"Medieval Receptions." In *The Cambridge Companion to Christology*, edited by Timothy Pawl and Michael Peterson. Cambridge: Cambridge University Press, in progress.
+
+`2019`
+“Trinity and Creation: *Vestigia Trinitatis* in Alexander of Hales’s *Glossa Sententiarum*.” *The Cord* 69, no. 1 (2019): 4–8.
+
+`2017`
+“The Latest in St. Bonaventure Scholarship: When Emerging and Senior Scholars Meet.” *The Cord* 67, no. 3 (2017): 20–22.
+
+`2014`
+“Raining on the Absurd: Entering into Solitude with Thomas Merton.” *The Reed* 16 (2014): 35–45.
 
 ### book reviews
 
@@ -78,14 +86,6 @@ Of Thomas Merton, Patrick F. O'Connell (ed.), *Cistercian Fathers and Forefather
 
 `2021`
 Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic Profession in Medieval Paris* (Fordham University Press, 2018), in [*Reading Religion* (2021)](https://readingreligion.org/books/ecstasy-classroom).
-
-### other essays
-
-`2019`
-“Trinity and Creation: *Vestigia Trinitatis* in Alexander of Hales’s *Glossa Sententiarum*.” *The Cord* 69, no. 1 (2019): 4–8.
-
-`2017`
-“The Latest in St. Bonaventure Scholarship: When Emerging and Senior Scholars Meet.” *The Cord* 67, no. 3 (2017): 20–22.
 
 ## presentations
 
