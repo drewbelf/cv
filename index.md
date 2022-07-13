@@ -92,6 +92,8 @@ Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic P
 ### academic
 
 `2022`
+"'Hypostasis' in the Christologies of Albert the Great and the *Summa halensis*." Paper submitted for "Bonaventure a Reader of Albert" Panel. 47th International Patristic, Medieval, and Renaissance Conference. Villanova University. October 21–23.
+
 "Penal Solidarity: A Reading of Atonement according to the *Summa halensis*." Paper on the "Franciscan–Dominican Conversations in the Thirteenth Century" Panel. Medieval Philosophy and Theology Conference. University of Notre Dame. May 19–21.
 
 `2021`
@@ -102,7 +104,7 @@ Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic P
 `2020`
 “Who Is *iste homo* Jesus? A Halensian Contribution.” Christ among the Disciplines. Online interdisciplinary conference. December 11–13.
 
-“History in Crisis? How Augustine Reads John’s Apocalypse.” Patristic, Medieval, and Renaissance Conference. Villanova University (online due to COVID-19). October 16–18.
+“History in Crisis? How Augustine Reads John’s Apocalypse.” 45th International Patristic, Medieval, and Renaissance Conference. Villanova University (online due to COVID-19). October 16–18.
 
 “*Christum esse confitemur, ergo Christus est unum*: the Early Franciscans and Thomas Aquinas on the Logical and Ontological Unity of Christ.” Thomas Aquinas and the Crisis of Christology. Ave Maria University. February 6–8.
 
