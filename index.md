@@ -63,7 +63,11 @@ __[Apprenticeship in College Teaching](https://www.bc.edu/content/bc-web/academi
 `2014`
 “Raining on the Absurd: Entering into Solitude with Thomas Merton.” *The Reed* 16 (2014): 35–45.
 
-### translations
+### invited
+
+"Medieval Receptions." In *The Cambridge Companion to Christology*, edited by Timothy Pawl and Michael Peterson. Cambridge: Cambridge University Press, forthcoming.
+
+### translation
 
 Of Alexander of Hales's *Glossa in quatuor libros Sententiarum Petri Lombardi*, Book III (in Dallas Medieval Texts & Translations), in progress with Eric Mabry (St. Mary's Seminary & University).
 
