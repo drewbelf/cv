@@ -160,6 +160,10 @@ a:hover {
 	text-decoration: underline;
 }
 
+a:active {
+	color: #aaa;
+}
+
 #webaddress {
 	margin-top: 1em;
 	position: relative;
@@ -172,6 +176,14 @@ a:hover {
 #webaddress a {
 	text-decoration: none;
 	color: #aaa;
+}
+
+#webaddress a:hover {
+	text-decoration: underline;
+}
+
+#webaddress a:active {
+	color: #8a100b;
 }
 
 em {
