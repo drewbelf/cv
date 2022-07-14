@@ -157,7 +157,7 @@ a {
 }
 
 a:hover {
-	color:#39f
+	text-decoration: underline;
 }
 
 #webaddress {
