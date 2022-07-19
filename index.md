@@ -259,8 +259,11 @@ Spanish
 
 ## academic associations
 
+`2022–`
+Bonaventure a Reader of Albert Research Group (Member)
+
 `2021–`
-[Catholic Theological Society of America](https://www.ctsa-online.org/) (Associate Member; application for Active Membership under review)  
+[Catholic Theological Society of America](https://www.ctsa-online.org/) (Active Member)  
 [College Theology Society](http://www.collegetheology.org/) (Full Professional Member)  
 [Medieval Academy of America](https://www.medievalacademy.org/) (Active Member)
 
