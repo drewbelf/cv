@@ -81,6 +81,8 @@ Of Alexander of Hales's *Glossa in quatuor libros Sententiarum Petri Lombardi*, 
 
 ### book reviews
 
+Of Travis E. Ables, *The Body of the Cross: Holy Victims and the Invention of the Atonement* (Fordham University Press, 2021), in [*Reading Religion*](https://readingreligion.org/9780823298006/the-body-of-the-cross/), in progress.
+
 `2022`
 Of Thomas Merton, Patrick F. O'Connell (ed.), *Cistercian Fathers and Forefathers: Essays and Conferences* (New City Press, 2018), in [*Reading Religion* (2022)](https://readingreligion.org/books/cistercian-fathers-and-forefathers).
 
