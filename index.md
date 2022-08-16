@@ -33,28 +33,19 @@ __Bachelor of Arts__, Theology & Philosophy, summa cum laude
 
 
 
-## teaching
-
-### appointments
+## teaching appointments
 
 `2021–`
-**Assistant Professor**, Department of Theology and Franciscan Studies, St. Bonaventure University
+**Assistant Professor**. Department of Theology and Franciscan Studies. St. Bonaventure University.
 - <span style="font-variant:small-caps;">thfs</span>-101 "The Way of Francis and Clare"
 - <span style="font-variant:small-caps;">thfs</span>-235 "Catholic Theology"
 - <span style="font-variant:small-caps;">thfs</span>-261 "Jesus through the Centuries"
 
 `2018–20`
-**Teaching Assistant**, Theology Department, Boston College
+**Teaching Assistant**. Theology Department. Boston College.
 - <span style="font-variant:small-caps;">theo</span>-1016/1017 "Introduction to Christian Theology I & II," with Boyd Taylor Coolman
 - <span style="font-variant:small-caps;">theo</span>-1019/<span style="font-variant:small-caps;">phil</span>-1019 "Perspectives in Western Culture II," with Andrew Prevot
 - <span style="font-variant:small-caps;">theo</span>-1402 "God, Self, and Society," with Brian Robinette
-
-
-### training
-
-`2022`
-__[Apprenticeship in College Teaching](https://www.bc.edu/content/bc-web/academics/sites/center-for-teaching-excellence/programs-events/graduate-student-programs/Apprenticeship-In-College-Teaching.html)__, Center for Teaching Excellence, Boston College
-
 
 ## publications
 
@@ -240,16 +231,30 @@ __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 
 **Presidential Scholarship**. St. Bonaventure University.
 
-## professional development
-`2017–21`
-Various professional development seminars. Theology Department. Boston College.
+## proficiencies
 
-`2018`
-Title IX Training. Office for Institutional Diversity. Boston College.
+### pedagogy
 
-Research and Scholarship Integrity Program. Morrissey College of Arts & Sciences. Boston College.
+Workshop on Teaching Argument Mapping. St. Bonaventure University.
 
-## research languages
+`2022`
+__[Apprenticeship in College Teaching](https://www.bc.edu/content/bc-web/academics/sites/center-for-teaching-excellence/programs-events/graduate-student-programs/Apprenticeship-In-College-Teaching.html)__. Center for Teaching Excellence. Boston College.
+
+### academic
+
+`2020`
+Doctoral comprehensive exams
+- Medieval theology
+- Patristic theology
+- Scholastic mendicant christology
+- Mendicant controversy at the University of Paris
+- Franciscan Joachimism
+- Christology after the Council of Chalcedon
+- Eschatology & history in Augustine
+- Systematic christology
+
+### languages
+
 `ancient`
 Latin
 
@@ -257,7 +262,6 @@ Latin
 English (native)  
 German  
 French  
-Spanish  
 
 ## academic associations
 
@@ -292,4 +296,4 @@ Bonaventure a Reader of Albert Research Group (Member)
 
 ## last updated
 
-July 2022
+August 2022
