@@ -190,7 +190,7 @@ Updated [online study guide](https://bcs.wiley.com/he-bcs/Books?action=index&bcs
 __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 
 
-## honors, awards, & fellowships
+## honors, awards & fellowships
 
 `2017–21`
 **University Fellowship**. Theology Department. Boston College.
