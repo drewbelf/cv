@@ -15,7 +15,7 @@ assistant professor of theology & Franciscan studies
 ## education
 
 `2021`
-__Doctor of Philosophy__, Theology
+__Doctor of Philosophy__. Theology.
 - Boston College
 - Specialization: Historical & Systematic Theology
 - Dissertation: "Foundations of scholastic christology in the *Summa halensis*"
@@ -23,11 +23,11 @@ __Doctor of Philosophy__, Theology
 - Readers: Michael C. Magree, S.J.; Jeremy D. Wilkins; Corey L. Barnes
 
 `2017`
-__Master of Theological Studies__
+__Master of Theological Studies__.
 - Loyola University Maryland
 
 `2015`
-__Bachelor of Arts__, Theology & Philosophy, summa cum laude
+__Bachelor of Arts__. Theology & Philosophy, summa cum laude.
 - St. Bonaventure University
 - Honors degree
 
@@ -184,7 +184,7 @@ __Student mentor__ to incoming doctoral students. Boston College.
 __Research assistant__ to Jeremy D. Wilkins. Boston College.
 
 `2017`
-Updated [online study guide](https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=11326&itemId=1118869575) for Alister E. McGrath, Christian Theology: An Introduction, 6th ed. (Malden, Mass.: Wiley-Blackwell, 2017).
+__Updated [online study guide](https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=11326&itemId=1118869575)__ for Alister E. McGrath, *Christian Theology: An Introduction*, 6th ed. (Malden, Mass.: Wiley-Blackwell, 2017).
 
 `2015–17`
 __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
