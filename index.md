@@ -145,7 +145,7 @@ Panelist. "A Colloquium of Companions: Closing Reflections." [Ignatius Brady Lec
 ### to SBU
 
 `2022–`
-**Student advising**. Minor Program. Department of Theology & Franciscan Studies.
+**Student advising**. Major & Minor Programs. Department of Theology & Franciscan Studies.
 
 `2021–`
 **Committee member**. Self-Evaluation Committee for Middle States Accreditation Standard 1: Mission and Goals.
