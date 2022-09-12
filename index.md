@@ -237,9 +237,9 @@ __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 
 ### pedagogy
 
+`2022`
 Workshop on Teaching Argument Mapping. St. Bonaventure University.
 
-`2022`
 __[Apprenticeship in College Teaching](https://www.bc.edu/content/bc-web/academics/sites/center-for-teaching-excellence/programs-events/graduate-student-programs/Apprenticeship-In-College-Teaching.html)__. Center for Teaching Excellence. Boston College.
 
 ### academic
