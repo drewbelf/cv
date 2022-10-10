@@ -87,7 +87,7 @@ Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic P
 ### academic
 
 `2022`
-"Notes on 'Hypostasis' and 'Person' in the Christologies of Albert the Great and the *Summa halensis*." Paper accepted for "Bonaventure a Reader of Albert" Panel. 47th International Patristic, Medieval, and Renaissance Conference. Villanova University. October 21–23.
+"Notes on 'Hypostasis' in the Christologies of Albert the Great and the *Summa halensis*." Paper accepted for "Bonaventure a Reader of Albert" Panel. 47th International Patristic, Medieval, and Renaissance Conference. Villanova University. October 21–23.
 
 "Penal Solidarity: A Reading of Atonement according to the *Summa halensis*." Paper on the "Franciscan–Dominican Conversations in the Thirteenth Century" Panel. Medieval Philosophy and Theology Conference. University of Notre Dame. May 19–21.
 
@@ -147,6 +147,8 @@ Panelist. "A Colloquium of Companions: Closing Reflections." [Ignatius Brady Lec
 ### to SBU
 
 `2022–`
+**Faculty Advisor**. College Democrats.
+
 **Student advising**. Major & Minor Programs. Department of Theology & Franciscan Studies.
 
 `2021–`
@@ -242,19 +244,6 @@ Workshop on Teaching Argument Mapping. St. Bonaventure University.
 
 __[Apprenticeship in College Teaching](https://www.bc.edu/content/bc-web/academics/sites/center-for-teaching-excellence/programs-events/graduate-student-programs/Apprenticeship-In-College-Teaching.html)__. Center for Teaching Excellence. Boston College.
 
-### academic
-
-`2020`
-Doctoral comprehensive exams
-- Medieval theology
-- Patristic theology
-- Scholastic mendicant christology
-- Mendicant controversy at the University of Paris
-- Franciscan Joachimism
-- Christology after the Council of Chalcedon
-- Eschatology & history in Augustine
-- Systematic christology
-
 ### languages
 
 `ancient`
@@ -298,4 +287,4 @@ Bonaventure a Reader of Albert Research Group (Member)
 
 ## last updated
 
-August 2022
+October 2022
