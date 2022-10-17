@@ -196,6 +196,9 @@ __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 
 ## honors, awards & fellowships
 
+`2022`
+**Research Grant** for participation in 47th International Patristic, Medieval, and Renaissance Conference. Franciscan Institute. St. Bonaventure University.
+
 `2017–21`
 **University Fellowship**. Theology Department. Boston College.
 
