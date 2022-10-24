@@ -87,9 +87,9 @@ Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic P
 ### academic
 
 `2022`
-"Notes on 'Hypostasis' in the Christologies of Albert the Great and the *Summa halensis*." Paper accepted for "Bonaventure a Reader of Albert" Panel. 47th Annual International Patristic, Medieval, and Renaissance Studies Conference. Villanova University. October 21–23.
+"Notes on 'Hypostasis' in the Christologies of Albert the Great and the *Summa halensis*." Paper on "Bonaventure a Reader of Albert" Panel. 47th Annual International Patristic, Medieval, and Renaissance Studies Conference. Villanova University. October 21–23.
 
-"Penal Solidarity: A Reading of Atonement according to the *Summa halensis*." Paper on the "Franciscan–Dominican Conversations in the Thirteenth Century" Panel. Medieval Philosophy and Theology Conference. University of Notre Dame. May 19–21.
+"Penal Solidarity: A Reading of Atonement according to the *Summa halensis*." Paper on "Franciscan–Dominican Conversations in the Thirteenth Century" Panel. Medieval Philosophy and Theology Conference. University of Notre Dame. May 19–21.
 
 `2021`
 "Christ's Penitential Human Nature: The *coassumpta* according to the *Summa halensis*." Historical Theology Colloquium. Boston College. April 20.
