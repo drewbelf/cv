@@ -131,8 +131,6 @@ Response to John R. Kern, “Dionysian Hierarchy in Thomas Aquinas’s Late Paul
 
 ### invited
 `2022`
-Panelist. "Vocation Panel." University Ministries. St. Bonaventure University. November 10.
-
 Panelist. "A Colloquium of Companions: Closing Reflections." [Ignatius Brady Lecture Series](https://www.sbu.edu/news/news-items/2021/07/07/franciscan-institute-at-st.-bonaventure-to-present-ignatius-brady-lecture-series). April 20. In conversation with Fr. David Couturier, O.F.M. Cap. (Franciscan Institute, St. Bonaventure University) and Aaron Gies (St. Bonaventure University).
 
 `2017`
@@ -278,18 +276,8 @@ Bonaventure a Reader of Albert Research Group (Member)
 
 ## references
 
-[Boyd Taylor Coolman](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/boyd-taylor-coolman.html)
-- Professor of Theology
-- Boston College
-
-[Frederick Christian Bauerschmidt](https://www.loyola.edu/academics/theology/faculty)
-- Professor of Theology
-- Loyola University Maryland
-
-[Brian Robinette](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/brian-robinette.html)
-- Associate Professor of Theology
-- Boston College
+Available upon request.
 
 ## last updated
 
-October 2022
+November 2022
