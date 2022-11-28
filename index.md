@@ -130,6 +130,8 @@ Response to John R. Kern, “Dionysian Hierarchy in Thomas Aquinas’s Late Paul
 “Raining on the Absurd: Existence and Solitude in Albert Camus and Thomas Merton.” Honors Program Symposium. St. Bonaventure University. April 18.
 
 ### invited
+Panelist. Roundtable on Teaching Franciscan Sources. Association of Franciscan Colleges and Universities Symposium. Siena College. June 20–22.
+
 `2022`
 Panelist. "A Colloquium of Companions: Closing Reflections." [Ignatius Brady Lecture Series](https://www.sbu.edu/news/news-items/2021/07/07/franciscan-institute-at-st.-bonaventure-to-present-ignatius-brady-lecture-series). April 20. In conversation with Fr. David Couturier, O.F.M. Cap. (Franciscan Institute, St. Bonaventure University) and Aaron Gies (St. Bonaventure University).
 
