@@ -61,7 +61,7 @@ Of Alexander of Hales's *Glossa in quatuor libros Sententiarum Petri Lombardi*, 
 
 ### essays & chapters
 
-"Medieval Receptions." In *The Cambridge Companion to Christology*, edited by Timothy Pawl and Michael Peterson. Cambridge: Cambridge University Press, in progress.
+"Medieval Receptions." In *The Cambridge Companion to Christology*, edited by Timothy Pawl and Michael Peterson. Cambridge: Cambridge University Press, in progress (under contract).
 
 `2019`
 “Trinity and Creation: *Vestigia Trinitatis* in Alexander of Hales’s *Glossa Sententiarum*.” *The Cord* 69, no. 1 (2019): 4–8.
@@ -87,7 +87,11 @@ Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic P
 ### academic
 
 `2022`
-"Notes on 'Hypostasis' in the Christologies of Albert the Great and the *Summa halensis*." Paper on "Bonaventure a Reader of Albert" Panel. 47th Annual International Patristic, Medieval, and Renaissance Studies Conference. Villanova University. October 21–23.
+Invited Panelist. Roundtable on Teaching Franciscan Sources. Association of Franciscan Colleges and Universities Symposium. Siena College. June 20–22.
+
+Invited paper. "Notes on 'Hypostasis' in the Christologies of Albert the Great and the *Summa halensis*." Paper on "Bonaventure a Reader of Albert" Panel. 47th Annual International Patristic, Medieval, and Renaissance Studies Conference. Villanova University. October 21–23.
+
+Invited panelist. "A Colloquium of Companions: Closing Reflections." [Ignatius Brady Lecture Series](https://www.sbu.edu/news/news-items/2021/07/07/franciscan-institute-at-st.-bonaventure-to-present-ignatius-brady-lecture-series). April 20. In conversation with Fr. David Couturier, O.F.M. Cap. (Franciscan Institute, St. Bonaventure University) and Aaron Gies (St. Bonaventure University).
 
 "Penal Solidarity: A Reading of Atonement according to the *Summa halensis*." Paper on "Franciscan–Dominican Conversations in the Thirteenth Century" Panel. Medieval Philosophy and Theology Conference. University of Notre Dame. May 19–21.
 
@@ -129,20 +133,13 @@ Response to John R. Kern, “Dionysian Hierarchy in Thomas Aquinas’s Late Paul
 `2015`
 “Raining on the Absurd: Existence and Solitude in Albert Camus and Thomas Merton.” Honors Program Symposium. St. Bonaventure University. April 18.
 
-### invited
-Panelist. Roundtable on Teaching Franciscan Sources. Association of Franciscan Colleges and Universities Symposium. Siena College. June 20–22.
-
-`2022`
-Panelist. "A Colloquium of Companions: Closing Reflections." [Ignatius Brady Lecture Series](https://www.sbu.edu/news/news-items/2021/07/07/franciscan-institute-at-st.-bonaventure-to-present-ignatius-brady-lecture-series). April 20. In conversation with Fr. David Couturier, O.F.M. Cap. (Franciscan Institute, St. Bonaventure University) and Aaron Gies (St. Bonaventure University).
+### non-academic
 
 `2017`
-“On the Prophetic Imagination.” [Ignatian Solidarity Network](https://ignatiansolidarity.net/) [Arrupe Leaders Summit](https://ignatiansolidarity.net/programs/arrupe-leaders-summit/) Maryland, March 10–12.
-
-`2016`
-“The Tower of Babel and Modern Technology.” Loyola University Maryland. September 30.
+Invited talk. “On the Prophetic Imagination.” [Ignatian Solidarity Network](https://ignatiansolidarity.net/) [Arrupe Leaders Summit](https://ignatiansolidarity.net/programs/arrupe-leaders-summit/) Maryland, March 10–12.
 
 `2015`
-"A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola University Marland. November 19.
+Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola University Marland. November 19.
 
 ## service
 
@@ -282,4 +279,4 @@ Available upon request.
 
 ## last updated
 
-November 2022
+December 2022
