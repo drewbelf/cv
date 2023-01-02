@@ -262,9 +262,12 @@ French
 **Member**. Bonaventure a Reader of Albert Research Group.
 
 `2021–`
-**Active Member**. [Catholic Theological Society of America](https://www.ctsa-online.org/).  
-**Full Professional Member**. [College Theology Society](http://www.collegetheology.org/).  
+**Active Member**. [Catholic Theological Society of America](https://www.ctsa-online.org/).
+
+**Full Professional Member**. [College Theology Society](http://www.collegetheology.org/).
+
 **Active Member**. [Medieval Academy of America](https://www.medievalacademy.org/).
+
 **Professional Member**. [American Academy of Religion](https://www.aarweb.org/).
 
 `2017–21`
