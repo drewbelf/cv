@@ -259,15 +259,16 @@ French
 ## academic associations
 
 `2022–`
-Bonaventure a Reader of Albert Research Group (Member)
+**Member**. Bonaventure a Reader of Albert Research Group.
 
 `2021–`
-[Catholic Theological Society of America](https://www.ctsa-online.org/) (Active Member)  
-[College Theology Society](http://www.collegetheology.org/) (Full Professional Member)  
-[Medieval Academy of America](https://www.medievalacademy.org/) (Active Member)
+**Active Member**. [Catholic Theological Society of America](https://www.ctsa-online.org/).  
+**Full Professional Member**. [College Theology Society](http://www.collegetheology.org/).  
+**Active Member**. [Medieval Academy of America](https://www.medievalacademy.org/).
+**Professional Member**. [American Academy of Religion](https://www.aarweb.org/).
 
-`2017–`
-[American Academy of Religion](https://www.aarweb.org/) (Professional Member)
+`2017–21`
+**Student Member**. [American Academy of Religion](https://www.aarweb.org/).
 
 `2017`
 [Theta Alpha Kappa](https://thetaalphakappa.org/)  
@@ -279,4 +280,4 @@ Available upon request.
 
 ## last updated
 
-December 2022
+January 2023
