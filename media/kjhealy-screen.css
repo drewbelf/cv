@@ -65,8 +65,8 @@ p {
 	position: relative;
 	left: 33%;
 	margin-bottom: 0.7em;
-	margin-right: auto;
-	max-width: 40em;
+	margin-right: 0;
+	width: 65%;
 }
 
 code {
