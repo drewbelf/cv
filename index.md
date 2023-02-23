@@ -145,6 +145,9 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 
 ### to SBU
 
+`2023–`
+**Arts Representative**. Faculty Sentate. (Term to begin June 1.)
+
 `2022–`
 **Faculty Advisor**. College Democrats.
 
@@ -283,4 +286,4 @@ Available upon request.
 
 ## last updated
 
-January 2023
+February 2023
