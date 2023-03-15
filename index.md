@@ -86,12 +86,12 @@ Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic P
 
 ### academic
 
-`2022`
 Invited Panelist. Roundtable on Teaching Franciscan Sources. Association of Franciscan Colleges and Universities Symposium. Siena College. June 20–22.
 
-Invited paper. "Notes on 'Hypostasis' in the Christologies of Albert the Great and the *Summa halensis*." Paper on "Bonaventure a Reader of Albert" Panel. 47th Annual International Patristic, Medieval, and Renaissance Studies Conference. Villanova University. October 21–23.
+"Recording Class and Inclusive Teaching." Diversity, Equity, and Inclusion Lecture Series. St. Bonaventure University. April 18. Co-presenting with Alex Gillham (St. Bonaventure University).
 
-Invited panelist. "A Colloquium of Companions: Closing Reflections." [Ignatius Brady Lecture Series](https://www.sbu.edu/news/news-items/2021/07/07/franciscan-institute-at-st.-bonaventure-to-present-ignatius-brady-lecture-series). April 20. In conversation with Fr. David Couturier, O.F.M. Cap. (Franciscan Institute, St. Bonaventure University) and Aaron Gies (St. Bonaventure University).
+`2022`
+Invited paper. "Notes on 'Hypostasis' in the Christologies of Albert the Great and the *Summa halensis*." Paper on "Bonaventure a Reader of Albert" Panel. 47th Annual International Patristic, Medieval, and Renaissance Studies Conference. Villanova University. October 21–23.
 
 "Penal Solidarity: A Reading of Atonement according to the *Summa halensis*." Paper on "Franciscan–Dominican Conversations in the Thirteenth Century" Panel. Medieval Philosophy and Theology Conference. University of Notre Dame. May 19–21.
 
@@ -134,6 +134,9 @@ Response to John R. Kern, “Dionysian Hierarchy in Thomas Aquinas’s Late Paul
 “Raining on the Absurd: Existence and Solitude in Albert Camus and Thomas Merton.” Honors Program Symposium. St. Bonaventure University. April 18.
 
 ### non-academic
+
+`2022`
+Invited panelist. "A Colloquium of Companions: Closing Reflections." [Ignatius Brady Lecture Series](https://www.sbu.edu/news/news-items/2021/07/07/franciscan-institute-at-st.-bonaventure-to-present-ignatius-brady-lecture-series). April 20. In conversation with Fr. David Couturier, O.F.M. Cap. (Franciscan Institute, St. Bonaventure University) and Aaron Gies (St. Bonaventure University).
 
 `2017`
 Invited talk. “On the Prophetic Imagination.” [Ignatian Solidarity Network](https://ignatiansolidarity.net/) [Arrupe Leaders Summit](https://ignatiansolidarity.net/programs/arrupe-leaders-summit/) Maryland, March 10–12.
@@ -286,4 +289,4 @@ Available upon request.
 
 ## last updated
 
-February 2023
+March 2023
