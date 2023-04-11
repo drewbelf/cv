@@ -157,7 +157,7 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 
 **Student advising**. Major & Minor Programs. Department of Theology & Franciscan Studies.
 
-`2021–`
+`2021–23`
 **Committee member**. Self-Evaluation Committee for Middle States Accreditation Standard 1: Mission and Goals.
 
 `2021–22`
