@@ -152,6 +152,9 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 `2023–`
 **Arts Representative**. Faculty Sentate. (Term to begin June 1.)
 
+`2023`
+**Reader**. Amara Young (Philosophy, ’23) Honors Project: "An Ethical Examination of Laptop Ban Policies in Undergraduate Courses."
+
 `2022–`
 **Faculty Advisor**. College Democrats.
 
