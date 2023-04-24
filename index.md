@@ -92,7 +92,7 @@ Invited Panelist. Roundtable on Teaching Franciscan Sources. Association of Fran
 Invited Paper. "The *Summa halensis* on the Coming of Christ in Judgment." The Last Things in Alexander of Hales and the Early Franciscan School. Colegio S. Isidoro, Roma. May 29–30.
 
 `2023`
-"Recording Class and Inclusive Teaching." Diversity, Equity, and Inclusion Lecture Series. St. Bonaventure University. April 18. Co-presenting with Alex Gillham (St. Bonaventure University).
+"Recording Class and Inclusive Teaching." Diversity, Equity, and Inclusion Lecture Series. St. Bonaventure University. April 18. Co-presented with Alex Gillham (St. Bonaventure University).
 
 `2022`
 Invited paper. "Notes on 'Hypostasis' in the Christologies of Albert the Great and the *Summa halensis*." Paper on "Bonaventure a Reader of Albert" Panel. 47th Annual International Patristic, Medieval, and Renaissance Studies Conference. Villanova University. October 21–23.
@@ -299,4 +299,4 @@ Available upon request.
 
 ## last updated
 
-March 2023
+April 2023
