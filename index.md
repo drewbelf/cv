@@ -89,6 +89,9 @@ Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic P
 
 Invited Panelist. Roundtable on Teaching Franciscan Sources. Association of Franciscan Colleges and Universities Symposium. Siena College. June 20–22.
 
+Invited Paper. "The *Summa halensis* on the Coming of Christ in Judgment." The Last Things in Alexander of Hales and the Early Franciscan School. Colegio S. Isidoro, Roma. May 29–30.
+
+`2023`
 "Recording Class and Inclusive Teaching." Diversity, Equity, and Inclusion Lecture Series. St. Bonaventure University. April 18. Co-presenting with Alex Gillham (St. Bonaventure University).
 
 `2022`
@@ -167,6 +170,9 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 **Committee member**. Search for tenure-track hire in Theology & Franciscan Studies.
 
 ### to the guild
+
+`2023`
+**Co-organizer** (with Aaron Gies, St. Bonaventure University). The Last Things in Alexander of Hales and the Early Franciscan School conference. Colegio S. Isidoro, Roma. May 29–30.
 
 `2022–`
 **Book review editor**. *Franciscan Studies* (ISSN: [00805459](https://www.jstor.org/journal/franstud)).
