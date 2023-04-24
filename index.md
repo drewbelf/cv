@@ -153,13 +153,13 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 ### to SBU
 
 `2023–`
-**Arts Representative**. Faculty Sentate. (Term to begin June 1.)
+**Arts representative**. Faculty Sentate. (Term to begin June 1.)
 
 `2022–`
-**Faculty Advisor**. College Democrats.
+**Faculty advisor**. College Democrats.
 
 `2023`
-**Reader**. Amara Young (Philosophy, ’23) Honors Project: "An Ethical Examination of Laptop Ban Policies in Undergraduate Courses."
+**Reader**. Amara Young (Philosophy, ’23) Honors Project. "An Ethical Examination of Laptop Ban Policies in Undergraduate Courses."
 
 `2022–23`
 **Student advising**. Major & Minor Programs. Department of Theology & Franciscan Studies.
@@ -176,7 +176,7 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 **Book review editor**. *Franciscan Studies* (ISSN: [00805459](https://www.jstor.org/journal/franstud)).
 
 `2023`
-**Co-organizer** (with Aaron Gies, St. Bonaventure University). The Last Things in Alexander of Hales and the Early Franciscan School conference. Colegio S. Isidoro, Roma. May 29–30.
+**Conference co-organizer** (with Aaron Gies, St. Bonaventure University). The Last Things in Alexander of Hales and the Early Franciscan School. Colegio S. Isidoro, Roma. May 29–30.
 
 `2022`
 **Session chair**. "Franciscan Models." Trust and the Franciscan Tradition. Second Annual *Franciscan Connections* Virtual Conference.
@@ -195,7 +195,7 @@ __Subcommittee member__. Tenure and Promotion Process. Boston College School of 
 __Panel member__. “Living and Learning in Boston.” Boston College Theology Department Accepted Students’ Day. March 13.
 
 `2019–20`
-__Co-organizer__ (with Christopher McLaughlin, Boston College). Historical Theology Colloquia. Boston College.
+__Colloquia co-organizer__ (with Christopher McLaughlin, Boston College). Historical Theology Colloquia. Boston College.
 
 `2018–20`
 __Student mentor__ to incoming doctoral students. Boston College.
@@ -212,19 +212,22 @@ __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 
 ## honors, awards & fellowships
 
+`2023`
+**Research grant** for study in Rome. Franciscan Institute. St. Bonaventure University.
+
 `2022`
-**Research Grant** for participation in 47th International Patristic, Medieval, and Renaissance Conference. Franciscan Institute. St. Bonaventure University.
+**Research grant** for participation in 47th International Patristic, Medieval, and Renaissance Conference. Franciscan Institute. St. Bonaventure University.
 
 `2017–21`
-**University Fellowship**. Theology Department. Boston College.
+**University fellowship**. Theology Department. Boston College.
 
 `2018`
 **3rd prize essay** for “On the Fittingness of Filial Incarnation in Two Summae.” Graduate Student Essay Contest. The Theology of Thomas Aquinas: Sources, Insights, and Influences. Mundelein Seminary.
 
-**Research Grant** for study in Rome. Franciscan Institute. St. Bonaventure University.
+**Research grant** for study in Rome. Franciscan Institute. St. Bonaventure University.
 
 `2017`
-**Research Grant** for summer study. Franciscan Institute. St. Bonaventure University.
+**Research grant** for summer study. Franciscan Institute. St. Bonaventure University.
 
 **Award for Research in Theology**. Loyola University Maryland.
 
@@ -279,16 +282,16 @@ French
 **Member**. Bonaventure a Reader of Albert Research Group.
 
 `2021–`
-**Active Member**. [Catholic Theological Society of America](https://www.ctsa-online.org/).
+**Active member**. [Catholic Theological Society of America](https://www.ctsa-online.org/).
 
-**Full Professional Member**. [College Theology Society](http://www.collegetheology.org/).
+**Full professional member**. [College Theology Society](http://www.collegetheology.org/).
 
-**Active Member**. [Medieval Academy of America](https://www.medievalacademy.org/).
+**Active member**. [Medieval Academy of America](https://www.medievalacademy.org/).
 
-**Professional Member**. [American Academy of Religion](https://www.aarweb.org/).
+**Professional member**. [American Academy of Religion](https://www.aarweb.org/).
 
 `2017–21`
-**Student Member**. [American Academy of Religion](https://www.aarweb.org/).
+**Student member**. [American Academy of Religion](https://www.aarweb.org/).
 
 `2017`
 [Theta Alpha Kappa](https://thetaalphakappa.org/)  
