@@ -155,12 +155,13 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 `2023–`
 **Arts Representative**. Faculty Sentate. (Term to begin June 1.)
 
-`2023`
-**Reader**. Amara Young (Philosophy, ’23) Honors Project: "An Ethical Examination of Laptop Ban Policies in Undergraduate Courses."
-
 `2022–`
 **Faculty Advisor**. College Democrats.
 
+`2023`
+**Reader**. Amara Young (Philosophy, ’23) Honors Project: "An Ethical Examination of Laptop Ban Policies in Undergraduate Courses."
+
+`2022–23`
 **Student advising**. Major & Minor Programs. Department of Theology & Franciscan Studies.
 
 `2021–23`
@@ -171,11 +172,11 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 
 ### to the guild
 
-`2023`
-**Co-organizer** (with Aaron Gies, St. Bonaventure University). The Last Things in Alexander of Hales and the Early Franciscan School conference. Colegio S. Isidoro, Roma. May 29–30.
-
 `2022–`
 **Book review editor**. *Franciscan Studies* (ISSN: [00805459](https://www.jstor.org/journal/franstud)).
+
+`2023`
+**Co-organizer** (with Aaron Gies, St. Bonaventure University). The Last Things in Alexander of Hales and the Early Franciscan School conference. Colegio S. Isidoro, Roma. May 29–30.
 
 `2022`
 **Session chair**. "Franciscan Models." Trust and the Franciscan Tradition. Second Annual *Franciscan Connections* Virtual Conference.
