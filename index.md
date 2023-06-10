@@ -90,7 +90,7 @@ Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic P
 Invited Panelist. Roundtable on Teaching Franciscan Sources. Association of Franciscan Colleges and Universities Symposium. Siena College. June 20–22.
 
 `2023`
-"Satisfaction, Resurrection, and Justification in the *Summa halensis*." The Last Things in Alexander of Hales and the Early Franciscan School. Colegio S. Isidoro, Roma. May 29–30.
+"Satisfaction, Resurrection, and Justification in the *Summa halensis*." The Last Things in Alexander of Hales and the Early Franciscan School. Collegio SantʼIsidoro, Roma. May 29–30.
 
 "Recording Class and Inclusive Teaching." Diversity, Equity, and Inclusion Lecture Series. St. Bonaventure University. April 18. Co-presented with Alex Gillham (St. Bonaventure University).
 
@@ -121,7 +121,7 @@ Response to John R. Kern, “Re-membering the Mystical Body: The Expansion of th
 `2018`
 “On the Fittingness of Filial Incarnation in Two Summae.” The Theology of Thomas Aquinas: Sources, Insights, and Influences. Mundelein Seminary. October 3.
 
-“Exemplarity and Trinitarian Vestiges in Alexander of Hales’ *Glossa Sententiarum*.” Alexander of Hales and Early Franciscan Masters. Colegio S. Isidoro, Roma. June 9–10.
+“Exemplarity and Trinitarian Vestiges in Alexander of Hales’ *Glossa Sententiarum*.” Alexander of Hales and Early Franciscan Masters. Collegio SantʼIsidoro, Roma. June 9–10.
 
 “*elegit suspendium anima mea et mortem ossa*: Job 7:15 in Victorine–Franciscan Mystical Ascents of the Soul.” BC STM Conference on Job in the Middle Ages. Boston College School of Theology and Ministry. April 27.
 
@@ -153,7 +153,7 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 ### to SBU
 
 `2023–`
-**Arts representative**. Faculty Sentate. (Term to begin June 1.)
+**Arts representative**. Faculty Senate.
 
 `2022–`
 **Faculty advisor**. College Democrats.
@@ -176,7 +176,7 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 **Book review editor**. *Franciscan Studies* (ISSN: [00805459](https://www.jstor.org/journal/franstud)).
 
 `2023`
-**Conference co-organizer** (with Aaron Gies, St. Bonaventure University). The Last Things in Alexander of Hales and the Early Franciscan School. Colegio S. Isidoro, Roma. May 29–30.
+**Conference co-organizer** (with Aaron Gies, St. Bonaventure University). "The Last Things in Alexander of Hales and the Early Franciscan School."" Collegio SantʼIsidoro, Roma. May 29–30.
 
 `2022`
 **Session chair**. "Franciscan Models." Trust and the Franciscan Tradition. Second Annual *Franciscan Connections* Virtual Conference.
