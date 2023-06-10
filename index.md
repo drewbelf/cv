@@ -89,9 +89,9 @@ Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic P
 
 Invited Panelist. Roundtable on Teaching Franciscan Sources. Association of Franciscan Colleges and Universities Symposium. Siena College. June 20–22.
 
-Invited Paper. "The *Summa halensis* on the Coming of Christ in Judgment." The Last Things in Alexander of Hales and the Early Franciscan School. Colegio S. Isidoro, Roma. May 29–30.
-
 `2023`
+"Satisfaction, Resurrection, and Justification in the *Summa halensis*." The Last Things in Alexander of Hales and the Early Franciscan School. Colegio S. Isidoro, Roma. May 29–30.
+
 "Recording Class and Inclusive Teaching." Diversity, Equity, and Inclusion Lecture Series. St. Bonaventure University. April 18. Co-presented with Alex Gillham (St. Bonaventure University).
 
 `2022`
@@ -303,4 +303,4 @@ Available upon request.
 
 ## last updated
 
-April 2023
+June 2023
