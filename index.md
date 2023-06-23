@@ -87,9 +87,9 @@ Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic P
 
 ### academic
 
-Invited Panelist. Roundtable on Teaching Franciscan Sources. Association of Franciscan Colleges and Universities Symposium. Siena College. June 20–22.
-
 `2023`
+Invited Panelist. [Illuminating Franciscan Sources in the Classroom: Francis, Clare, and Beyond](https://afcu2023.siena.edu/session/illuminating-franciscan-sources-in-the-classroom-francis-clare-and-beyond/). Association of Franciscan Colleges and Universities Symposium. Siena College. June 20–22.
+
 "Satisfaction, Resurrection, and Justification in the *Summa halensis*." The Last Things in Alexander of Hales and the Early Franciscan School. Collegio SantʼIsidoro, Roma. May 29–30.
 
 "Recording Class and Inclusive Teaching." Diversity, Equity, and Inclusion Lecture Series. St. Bonaventure University. April 18. Co-presented with Alex Gillham (St. Bonaventure University).
