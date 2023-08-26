@@ -163,6 +163,8 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 **Faculty advisor**. College Democrats.
 
 `2023`
+**Committee member**. Search for Interim Dean of Arts and Sciences (2023–24).
+
 **Reader**. Amara Young (Philosophy, ’23) Honors Project. "An Ethical Examination of Laptop Ban Policies in Undergraduate Courses."
 
 `2022–23`
@@ -266,7 +268,7 @@ __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 ### pedagogy
 
 `2022`
-Workshop on Teaching Argument Mapping. St. Bonaventure University.
+**Workshop on Teaching Argument Mapping**. St. Bonaventure University.
 
 __[Apprenticeship in College Teaching](https://www.bc.edu/content/bc-web/academics/sites/center-for-teaching-excellence/programs-events/graduate-student-programs/Apprenticeship-In-College-Teaching.html)__. Center for Teaching Excellence. Boston College.
 
@@ -307,4 +309,4 @@ Available upon request.
 
 ## last updated
 
-June 2023
+August 2023
