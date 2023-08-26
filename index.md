@@ -178,11 +178,14 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 
 ### to the guild
 
+`2023–`
+**Conference co-organizer** (with Aaron Gies, St. Bonaventure University). "*Qui primus legit*." St. Bonaventure University. July 12–15, 2024.
+
 `2022–`
 **Book review editor**. *Franciscan Studies* (ISSN: [00805459](https://www.jstor.org/journal/franstud)).
 
 `2023`
-**Conference co-organizer** (with Aaron Gies, St. Bonaventure University). "The Last Things in Alexander of Hales and the Early Franciscan School."" Collegio SantʼIsidoro, Roma. May 29–30.
+**Conference co-organizer** (with Aaron Gies, St. Bonaventure University). "The Last Things in Alexander of Hales and the Early Franciscan School." Collegio SantʼIsidoro, Roma. May 29–30, 2023.
 
 `2022`
 **Session chair**. "Franciscan Models." Trust and the Franciscan Tradition. Second Annual *Franciscan Connections* Virtual Conference.
