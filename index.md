@@ -179,7 +179,7 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 ### to the guild
 
 `2023–`
-**Conference co-organizer** (with Aaron Gies, St. Bonaventure University). "*Qui primus legit*." St. Bonaventure University. July 12–15, 2024.
+**Conference co-organizer** (with Aaron Gies, St. Bonaventure University). "*Qui primus legit*: Studies in Sentence Commentaries on the Eighth Centenary of Alexander of Hales’s Lectures (ca. 1223–1227)" St. Bonaventure University. July 12–15, 2024.
 
 `2022–`
 **Book review editor**. *Franciscan Studies* (ISSN: [00805459](https://www.jstor.org/journal/franstud)).
