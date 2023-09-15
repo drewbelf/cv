@@ -290,7 +290,7 @@ French
 ## academic associations
 
 `2022–`
-**Member**. Bonaventure a Reader of Albert Research Group.
+**Contributing Member**. Bonaventure a Reader of Albert Research Group. Sponsored by Franciscan Institute (St. Bonaventure University).
 
 `2021–`
 **Active member**. [Catholic Theological Society of America](https://www.ctsa-online.org/).
@@ -314,4 +314,4 @@ Available upon request.
 
 ## last updated
 
-August 2023
+September 2023
