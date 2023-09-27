@@ -37,11 +37,12 @@ __Bachelor of Arts__. Theology & Philosophy, summa cum laude.
 
 `2021–`
 **Assistant Professor**. Department of Theology and Franciscan Studies. St. Bonaventure University.
-- <span style="font-variant:small-caps;">lat</span>-201 "Introduction to Latin Authors of the Republic"
 - <span style="font-variant:small-caps;">thfs</span>-101 "The Way of Francis and Clare"
 - <span style="font-variant:small-caps;">thfs</span>-235 "Catholic Theology"
 - <span style="font-variant:small-caps;">thfs</span>-261 "Jesus through the Centuries"
+- <span style="font-variant:small-caps;">thfs</span>-342 "Bonaventure—Life & Writings"
 - <span style="font-variant:small-caps;">thfs</span>-360 "Early Christian History to the Reformation"
+- <span style="font-variant:small-caps;">lat</span>-201 "Introduction to Latin Authors of the Republic"
 
 `2018–20`
 **Teaching Assistant**. Theology Department. Boston College.
@@ -287,8 +288,8 @@ Latin
 
 `modern`
 English (native)  
-German  
-French  
+German (reading proficiency)  
+French (reading proficiency)  
 
 ## academic associations
 
