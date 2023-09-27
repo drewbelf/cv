@@ -273,7 +273,7 @@ __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 ### pedagogy
 
 `2023`
-**Large-Language Models/<span style="font-variant:small-caps;">ai</span>** Workshop. St. Bonaventure University.
+**Large-Language Models/<span style="font-variant:small-caps;">ai</span> Workshop**. St. Bonaventure University.
 
 `2022`
 **Workshop on Teaching Argument Mapping**. St. Bonaventure University.
