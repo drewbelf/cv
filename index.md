@@ -168,7 +168,7 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 `2023`
 **Committee member**. Search for Interim Dean of Arts and Sciences (2023–24).
 
-**Reader**. Amara Young (Philosophy, ’23) Honors Project. "An Ethical Examination of Laptop Ban Policies in Undergraduate Courses."
+**Honors project reader**. Amara Young (Philosophy, ’23). "An Ethical Examination of Laptop Ban Policies in Undergraduate Courses."
 
 `2022–23`
 **Student advising**. Major & Minor Programs. Department of Theology & Franciscan Studies.
