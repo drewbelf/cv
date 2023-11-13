@@ -146,6 +146,9 @@ Response to John R. Kern, “Dionysian Hierarchy in Thomas Aquinas’s Late Paul
 
 ### non-academic
 
+`2023`
+Invited reflection. "Francis of Assisi and the Christmas Crèche." Christmas Tree Lighting Ceremony. St. Bonaventure University.
+
 `2022`
 Invited panelist. "A Colloquium of Companions: Closing Reflections." [Ignatius Brady Lecture Series](https://www.sbu.edu/news/news-items/2021/07/07/franciscan-institute-at-st.-bonaventure-to-present-ignatius-brady-lecture-series). April 20. In conversation with Fr. David Couturier, O.F.M. Cap. (Franciscan Institute, St. Bonaventure University) and Aaron Gies (St. Bonaventure University).
 
