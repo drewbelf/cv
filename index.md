@@ -38,6 +38,7 @@ __Bachelor of Arts__. Theology & Philosophy, summa cum laude.
 `2021–`
 **Assistant Professor**. Department of Theology and Franciscan Studies. St. Bonaventure University.
 - <span style="font-variant:small-caps;">thfs</span>-101 "The Way of Francis and Clare"
+- <span style="font-variant:small-caps;">thfs</span>-226 "Theology through Film" (proposed for fall 2024)
 - <span style="font-variant:small-caps;">thfs</span>-235 "Catholic Theology"
 - <span style="font-variant:small-caps;">thfs</span>-261 "Jesus through the Centuries"
 - <span style="font-variant:small-caps;">thfs</span>-342 "Bonaventure—Life & Writings"
@@ -63,7 +64,7 @@ __Bachelor of Arts__. Theology & Philosophy, summa cum laude.
 
 ### scholarly chapter
 
-"Medieval Receptions." In *The Cambridge Companion to Christology*, edited by Timothy Pawl and Michael Peterson. Cambridge: Cambridge University Press, in progress (under contract).
+"Medieval Receptions." In *The Cambridge Companion to Christology*, edited by Timothy Pawl and Michael Peterson. Cambridge: Cambridge University Press, forthcoming.
 
 ### translation
 
@@ -321,4 +322,4 @@ Available upon request.
 
 ## last updated
 
-September 2023
+February 2024.
