@@ -57,7 +57,9 @@ __Bachelor of Arts__. Theology & Philosophy, summa cum laude.
 
 *Christ the Penitent: The Early Franciscans & Scholastic Christology*, in progress.
 
-### peer-reviewed article
+### peer-reviewed articles
+
+"Hypostases in Christ and the Work of Scholastic Christology: The *Summa halensis* and Albert the Great’s *Commentary on the Sentences*." *Franciscan Studies* (forthcoming).
 
 `2014`
 “Raining on the Absurd: Entering into Solitude with Thomas Merton.” *The Reed* 16 (2014): 35–45.
@@ -322,4 +324,4 @@ Available upon request.
 
 ## last updated
 
-February 2024.
+March 2024.
