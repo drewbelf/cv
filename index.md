@@ -38,7 +38,7 @@ __Bachelor of Arts__. Theology & Philosophy, summa cum laude.
 `2021–`
 **Assistant Professor**. Department of Theology and Franciscan Studies. St. Bonaventure University.
 - <span style="font-variant:small-caps;">thfs</span>-101 "The Way of Francis and Clare"
-- <span style="font-variant:small-caps;">thfs</span>-226 "Theology through Film" (proposed for fall 2024)
+- <span style="font-variant:small-caps;">thfs</span>-226 "Theology through Film" (planned for fall 2024)
 - <span style="font-variant:small-caps;">thfs</span>-235 "Catholic Theology"
 - <span style="font-variant:small-caps;">thfs</span>-261 "Jesus through the Centuries"
 - <span style="font-variant:small-caps;">thfs</span>-342 "Bonaventure—Life & Writings"
@@ -53,13 +53,9 @@ __Bachelor of Arts__. Theology & Philosophy, summa cum laude.
 
 ## publications
 
-### monograph
-
-*Christ the Penitent: The Early Franciscans & Scholastic Christology*, in progress.
-
 ### peer-reviewed articles
 
-"Hypostases in Christ and the Work of Scholastic Christology: The *Summa halensis* and Albert the Great’s *Commentary on the Sentences*." *Franciscan Studies* (forthcoming).
+"Hypostases in Christ and the Work of Scholastic Christology: The *Summa halensis* and Albert the Great’s *Commentary on the Sentences*." *Franciscan Studies* (forthcoming in 2024).
 
 `2014`
 “Raining on the Absurd: Entering into Solitude with Thomas Merton.” *The Reed* 16 (2014): 35–45.
@@ -68,11 +64,9 @@ __Bachelor of Arts__. Theology & Philosophy, summa cum laude.
 
 "Medieval Receptions." In *The Cambridge Companion to Christology*, edited by Timothy Pawl and Michael Peterson. Cambridge: Cambridge University Press, forthcoming.
 
-### translation
-
-Of Alexander of Hales's *Glossa in quatuor libros Sententiarum Petri Lombardi*, Book III (in Dallas Medieval Texts & Translations), in progress with Eric Mabry (St. Mary's Seminary & University)
-
 ### book reviews
+
+Of Johannes Jacobus Knecht, *Verus Filius Dei Incarnatus: The Christologies of Paulinus II of Aquileia, Benedict of Aniane, and Agobard of Lyon in the Context of the Felician Controversy* (Aschendorff Verlag, 2022), in *Archa Verbi* (forthcoming).
 
 `2023`
 Of Travis E. Ables, *The Body of the Cross: Holy Victims and the Invention of the Atonement* (Fordham University Press, 2021), in [*Reading Religion* (2023)](https://readingreligion.org/9780823298006/the-body-of-the-cross/).
