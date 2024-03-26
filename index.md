@@ -269,9 +269,12 @@ __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 
 **Presidential Scholarship**. St. Bonaventure University.
 
-## proficiencies
+## professional development
 
-### pedagogy
+`2024`
+Application accepted for **Valley & Ridge: Sustainability across the Curriculum Workshop**. Dickinson College. May 21–23.
+
+**Network for Vocation in Undergraduate Education**. Council of Independent Colleges. Atlanta. March 21–23.
 
 `2023`
 **Large-Language Models/<span style="font-variant:small-caps;">ai</span> Workshop**. St. Bonaventure University.
@@ -281,7 +284,7 @@ __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 
 __[Apprenticeship in College Teaching](https://www.bc.edu/content/bc-web/academics/sites/center-for-teaching-excellence/programs-events/graduate-student-programs/Apprenticeship-In-College-Teaching.html)__. Center for Teaching Excellence. Boston College.
 
-### languages
+## languages
 
 `ancient`
 Latin
