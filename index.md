@@ -162,6 +162,9 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 `2023–`
 **Arts representative**. Faculty Senate.
 
+`2023–`
+**Faculty co-advisor**. Film Club.
+
 `2022–`
 **Faculty advisor**. College Democrats.
 
@@ -188,12 +191,12 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 **Book review editor**. *Franciscan Studies* (ISSN: [00805459](https://www.jstor.org/journal/franstud)).
 
 `2023`
-**Conference co-organizer** (with Aaron Gies, St. Bonaventure University). "The Last Things in Alexander of Hales and the Early Franciscan School." Collegio SantʼIsidoro, Roma. May 29–30, 2023.
+**Conference co-organizer** (with Aaron Gies, St. Bonaventure University). "The Last Things in Alexander of Hales and the Early Franciscan School." Collegio SantʼIsidoro, Roma. May 29–30.
 
 `2022`
-**Session chair**. "Franciscan Models." Trust and the Franciscan Tradition. Second Annual *Franciscan Connections* Virtual Conference.
+**Session chair**. "Franciscan Models." Trust and the Franciscan Tradition. Second Annual *Franciscan Connections* Virtual Conference. June 23–24.
 
-**Session co-organizer** (with [John R. Kern](https://seaver.pepperdine.edu/academics/faculty/john-kern/), Pepperdine University). "Franciscan–Dominican Conversations in the Thirteenth Century." Conference on Medieval Philosophy and Theology. University of Notre Dame.
+**Session co-organizer** (with [John R. Kern](https://seaver.pepperdine.edu/academics/faculty/john-kern/), Pepperdine University). "Franciscan–Dominican Conversations in the Thirteenth Century." Conference on Medieval Philosophy and Theology. University of Notre Dame. May 19–21.
 
 
 ### past
@@ -321,4 +324,4 @@ Available upon request.
 
 ## last updated
 
-March 2024.
+April 2024.
