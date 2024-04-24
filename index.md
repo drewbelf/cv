@@ -160,7 +160,7 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 ### to SBU
 
 `2024–`
-**Co-chair**. Curriculum committee.
+**Co-chair for Arts & Sciences, individualized majors, and the general education programs**. Faculty Senate Curriculum Committee.
 
 `2023–`
 **Arts representative**. Faculty Senate.
