@@ -172,6 +172,9 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 **Faculty advisor**. College Democrats.
 
 `2023`
+**Workshop co-facilitator**. "Living like a Franciscan" Workshop.
+
+`2023`
 **Committee member**. Search for Interim Dean of Arts and Sciences (2023–24).
 
 **Honors project reader**. Amara Young (Philosophy, ’23). "An Ethical Examination of Laptop Ban Policies in Undergraduate Courses."
@@ -278,7 +281,7 @@ __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 ## professional development
 
 `2024`
-Application accepted for **Valley & Ridge: Sustainability across the Curriculum Workshop**. Dickinson College. May 21–23.
+**Valley & Ridge: Sustainability across the Curriculum Workshop**. Dickinson College. May 21–23.
 
 **Network for Vocation in Undergraduate Education**. Council of Independent Colleges. Atlanta. March 21–23.
 
