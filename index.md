@@ -91,7 +91,9 @@ Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic P
 
 Proposal accepted for "Penance and Satisfaction in Alexander of Hales's *Glossa in quatuor libros Sententiarum*." Qui primus legit: Studies in Sentence Commentaries on the Eighth Centenary of Alexander of Hales’s Lectures. St. Bonaventure University. June 12–13, 2024.
 
-Proposal accepted for "'Worthy Acts of Penance' in Early Franciscan Soteriology." 78th Annual Convention of the Catholic Theological Society of America. Baltimore. June 13–16, 2024.
+`2024`
+
+"'Worthy Acts of Penance' in Early Franciscan Soteriology." 78th Annual Convention of the Catholic Theological Society of America. Baltimore. June 13–16, 2024.
 
 `2023`
 Invited Panelist. [Illuminating Franciscan Sources in the Classroom: Francis, Clare, and Beyond](https://afcu2023.siena.edu/session/illuminating-franciscan-sources-in-the-classroom-francis-clare-and-beyond/). Association of Franciscan Colleges and Universities Symposium. Siena College. June 20–22.
