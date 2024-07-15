@@ -89,11 +89,11 @@ Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic P
 
 ### academic
 
-Proposal accepted for "Penance and Satisfaction in Alexander of Hales's *Glossa in quatuor libros Sententiarum*." Qui primus legit: Studies in Sentence Commentaries on the Eighth Centenary of Alexander of Hales’s Lectures. St. Bonaventure University. June 12–13, 2024.
-
 `2024`
 
-"'Worthy Acts of Penance' in Early Franciscan Soteriology." 78th Annual Convention of the Catholic Theological Society of America. Baltimore. June 13–16, 2024.
+"Penance and Satisfaction in Alexander of Hales's *Glossa in quatuor libros Sententiarum*." *Qui primus legit*: Studies in Sentence Commentaries on the Eighth Centenary of Alexander of Hales’s Lectures. St. Bonaventure University. June 11–12.
+
+"'Worthy Acts of Penance' in Early Franciscan Soteriology." 78th Annual Convention of the Catholic Theological Society of America. Baltimore. June 13–16.
 
 `2023`
 Invited Panelist. [Illuminating Franciscan Sources in the Classroom: Francis, Clare, and Beyond](https://afcu2023.siena.edu/session/illuminating-franciscan-sources-in-the-classroom-francis-clare-and-beyond/). Association of Franciscan Colleges and Universities Symposium. Siena College. June 20–22.
@@ -194,11 +194,11 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 
 ### to the guild
 
-`2023–`
-**Conference co-organizer** (with Aaron Gies, St. Bonaventure University). "*Qui primus legit*: Studies in Sentence Commentaries on the Eighth Centenary of Alexander of Hales’s Lectures (ca. 1223–1227)" St. Bonaventure University. July 12–15, 2024.
-
 `2022–`
 **Book review editor**. *Franciscan Studies* (ISSN: [00805459](https://www.jstor.org/journal/franstud)).
+
+`2023–24`
+**Conference co-organizer** (with Aaron Gies, St. Bonaventure University; and Kasey Kimball, Boston College). "*Qui primus legit*: Studies in Sentence Commentaries on the Eighth Centenary of Alexander of Hales’s Lectures." St. Bonaventure University. July 11–12, 2024.
 
 `2023`
 **Conference co-organizer** (with Aaron Gies, St. Bonaventure University). "The Last Things in Alexander of Hales and the Early Franciscan School." Collegio SantʼIsidoro, Roma. May 29–30.
@@ -340,4 +340,4 @@ Available upon request.
 
 ## last updated
 
-June 2024.
+July 2024.
