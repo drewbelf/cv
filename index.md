@@ -90,6 +90,8 @@ Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic P
 ### academic
 
 `2024`
+Proposal accepted for "*Est enim humilitas ostium sapientiae*: Bonaventure on Humility, Poverty, and Teaching Theology." Paper on "Mendicant Charisms and their Discontents: The Secular-Mendicant Controversies at Paris" Panel. 49th Annual International Patristic, Medieval, and Renaissance Studies Conference. Villanova University. November 1–3.
+
 "Penance and Satisfaction in Alexander of Hales's *Glossa in quatuor libros Sententiarum*." *Qui primus legit*: Studies in Sentence Commentaries on the Eighth Centenary of Alexander of Hales’s Lectures. St. Bonaventure University. June 11–12.
 
 "'Worthy Acts of Penance' in Early Franciscan Soteriology." 78th Annual Convention of the Catholic Theological Society of America. Baltimore. June 13–16.
@@ -102,7 +104,7 @@ Invited Panelist. [Illuminating Franciscan Sources in the Classroom: Francis, Cl
 "Recording Class and Inclusive Teaching." Diversity, Equity, and Inclusion Lecture Series. St. Bonaventure University. April 18. Co-presented with Alex Gillham (St. Bonaventure University).
 
 `2022`
-Invited paper. "Notes on 'Hypostasis' in the Christologies of Albert the Great and the *Summa halensis*." Paper on "Bonaventure a Reader of Albert" Panel. 47th Annual International Patristic, Medieval, and Renaissance Studies Conference. Villanova University. October 21–23.
+Invited paper. "Notes on 'Hypostasis' in the Christologies of Albert the Great and the *Summa halensis*." Paper on "Bonaventure a Reader of Albert" Panel, sponsored by the Boston Colloquy for Historical Theology. 47th Annual International Patristic, Medieval, and Renaissance Studies Conference. Villanova University. October 21–23.
 
 "Penal Solidarity: A Reading of Atonement according to the *Summa halensis*." Paper on "Franciscan–Dominican Conversations in the Thirteenth Century" Panel. Medieval Philosophy and Theology Conference. University of Notre Dame. May 19–21.
 
@@ -195,6 +197,9 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 
 `2022–`
 **Book review editor**. *Franciscan Studies* (ISSN: [00805459](https://www.jstor.org/journal/franstud)).
+
+`2024`
+**Panel co-organizer** (with John R. Kern, Pepperdine University). "Mendicant Charisms and their Discontents: The Secular-Mendicant Controversies at Paris." 49th Annual International Patristic, Medieval, and Renaissance Studies Conference. Villanova University.
 
 `2023–24`
 **Conference co-organizer** (with Aaron Gies, St. Bonaventure University; and Kasey Kimball, Boston College). "*Qui primus legit*: Studies in Sentence Commentaries on the Eighth Centenary of Alexander of Hales’s Lectures." St. Bonaventure University. July 11–12, 2024.
