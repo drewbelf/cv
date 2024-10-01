@@ -165,6 +165,8 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 ### to SBU
 
 `2024–`
+**Faculy Senate Representative**. Task Force on Perception of Value in Higher Education (A): Develop a multi-faceted approach to the Bonaventure educational experience that highlights strong academic quality and ethical leadership informed by our Catholic Franciscan mission. University Planning Commission.
+
 **Co-chair for Arts & Sciences, individualized majors, and the general education programs**. Faculty Senate Curriculum Committee.
 
 `2023–`
