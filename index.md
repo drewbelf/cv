@@ -90,7 +90,7 @@ Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic P
 ### academic
 
 `2024`
-Proposal accepted for "*Est enim humilitas ostium sapientiae*: Bonaventure on Humility, Poverty, and Teaching Theology." Paper on "Mendicant Charisms and their Discontents: The Secular-Mendicant Controversies at Paris" Panel. 49th Annual International Patristic, Medieval, and Renaissance Studies Conference. Villanova University. November 1–3.
+"*Est enim humilitas ostium sapientiae*: Bonaventure on Humility, Poverty, and Teaching Theology." Paper on "Mendicant Charisms and their Discontents: The Secular-Mendicant Controversies at Paris" Panel. 49th Annual International Patristic, Medieval, and Renaissance Studies Conference. Villanova University. November 1–3.
 
 "Penance and Satisfaction in Alexander of Hales's *Glossa in quatuor libros Sententiarum*." *Qui primus legit*: Studies in Sentence Commentaries on the Eighth Centenary of Alexander of Hales’s Lectures. St. Bonaventure University. June 11–12.
 
