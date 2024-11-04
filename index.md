@@ -176,6 +176,9 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 `2024–`
 **Co-chair for Arts & Sciences, individualized majors, and the general education programs**. Faculty Senate Curriculum Committee.
 
+`2024–`
+**Chair**. Committee to Review the Learning Goals of THFS-101.
+
 `2023–`
 **Arts representative**. Faculty Senate.
 
@@ -185,7 +188,7 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 `2022–`
 **Faculty advisor**. College Democrats.
 
-`2023`
+`2023–24`
 **Workshop co-facilitator**. "Living like a Franciscan" Workshop.
 
 `2023`
