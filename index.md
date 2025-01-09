@@ -38,7 +38,7 @@ __Bachelor of Arts__. Theology & Philosophy, summa cum laude.
 `2021–`
 **Assistant Professor**. Department of Theology and Franciscan Studies. St. Bonaventure University.
 - <span style="font-variant:small-caps;">thfs</span>-101 "The Way of Francis and Clare"
-- <span style="font-variant:small-caps;">thfs</span>-226 "Theology through Film" (planned for fall 2024)
+- <span style="font-variant:small-caps;">thfs</span>-226 "Theology through Film"
 - <span style="font-variant:small-caps;">thfs</span>-235 "Catholic Theology"
 - <span style="font-variant:small-caps;">thfs</span>-261 "Jesus through the Centuries"
 - <span style="font-variant:small-caps;">thfs</span>-342 "Bonaventure—Life & Writings"
@@ -66,12 +66,12 @@ __Bachelor of Arts__. Theology & Philosophy, summa cum laude.
 
 ### book reviews
 
-Of Johannes Jacobus Knecht, *Verus Filius Dei Incarnatus: The Christologies of Paulinus II of Aquileia, Benedict of Aniane, and Agobard of Lyon in the Context of the Felician Controversy* (Aschendorff Verlag, 2022), in *Archa Verbi* (forthcoming).
-
 `2023`
 Of Travis E. Ables, *The Body of the Cross: Holy Victims and the Invention of the Atonement* (Fordham University Press, 2021), in [*Reading Religion* (2023)](https://readingreligion.org/9780823298006/the-body-of-the-cross/).
 
 `2022`
+Of Johannes Jacobus Knecht, *Verus Filius Dei Incarnatus: The Christologies of Paulinus II of Aquileia, Benedict of Aniane, and Agobard of Lyon in the Context of the Felician Controversy* (Aschendorff Verlag, 2022), in *Archa Verbi* 19 (2022): 212–215.
+
 Of Thomas Merton, Patrick F. O'Connell (ed.), *Cistercian Fathers and Forefathers: Essays and Conferences* (New City Press, 2018), in [*Reading Religion* (2022)](https://readingreligion.org/books/cistercian-fathers-and-forefathers).
 
 `2021`
@@ -165,9 +165,6 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 ### to SBU
 
 `2024–`
-**Faculy Senate Representative**. Task Force on Perception of Value in Higher Education (A): Develop a multi-faceted approach to the Bonaventure educational experience that highlights strong academic quality and ethical leadership informed by our Catholic Franciscan mission. University Planning Commission.
-
-`2024–`
 **Committee member**. Search for tenure-track hire in Theology & Franciscan Studies.
 
 `2024–`
@@ -175,9 +172,6 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 
 `2024–`
 **Co-chair for Arts & Sciences, individualized majors, and the general education programs**. Faculty Senate Curriculum Committee.
-
-`2024–`
-**Chair**. Committee to Review the Learning Goals of THFS-101.
 
 `2023–`
 **Arts representative**. Faculty Senate.
@@ -187,6 +181,15 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 
 `2022–`
 **Faculty advisor**. College Democrats.
+
+`2024`
+**Chair**. Committee to Review the Learning Goals of THFS distribution.
+
+`2024`
+**Chair**. Committee to Review the Learning Goals of THFS-101.
+
+`2024`
+**Faculy Senate Representative**. Task Force on Perception of Value in Higher Education (A): Develop a multi-faceted approach to the Bonaventure educational experience that highlights strong academic quality and ethical leadership informed by our Catholic Franciscan mission. University Planning Commission.
 
 `2023–24`
 **Workshop co-facilitator**. "Living like a Franciscan" Workshop.
@@ -356,4 +359,4 @@ Available upon request.
 
 ## last updated
 
-July 2024.
+January 2025.
