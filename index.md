@@ -62,7 +62,7 @@ __Bachelor of Arts__. Theology & Philosophy, summa cum laude.
 
 ### scholarly chapter
 
-"Medieval Receptions." In *The Cambridge Companion to Christology*, edited by Timothy Pawl and Michael Peterson. Cambridge: Cambridge University Press, forthcoming.
+"Medieval Receptions." In *The Cambridge Companion to Christology*, edited by Timothy Pawl and Michael Peterson. Cambridge: Cambridge University Press (under contract and accepted by editors).
 
 ### book reviews
 
