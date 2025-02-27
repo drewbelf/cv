@@ -55,7 +55,8 @@ __Bachelor of Arts__. Theology & Philosophy, summa cum laude.
 
 ### peer-reviewed articles
 
-"Hypostases in Christ and the Work of Scholastic Christology: The *Summa halensis* and Albert the Great’s *Commentary on the Sentences*." *Franciscan Studies* (forthcoming in 2024).
+`2024`
+"Hypostases in Christ and the Work of Scholastic Christology: The *Summa halensis* and Albert the Great’s *Commentary on the Sentences*." *Franciscan Studies* 82 (2024): 29–48.
 
 `2014`
 “Raining on the Absurd: Entering into Solitude with Thomas Merton.” *The Reed* 16 (2014): 35–45.
