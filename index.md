@@ -183,17 +183,23 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 `2022–`
 **Faculty advisor**. College Democrats.
 
-`2024`
-**Chair**. Committee to Review the Learning Goals of THFS distribution.
+`2025`
+**Co-facilitator**. *Hearing Vocation Differently: Meaning, Purpose, and Identity in the Multi-faith Academy* Reading Group. Office for Mission Integration.
+
+`2025`
+**Co-facilitator**. *Braiding Sweetgrass* Reading Group (organized by Dr. Karie Altman). School of Arts & Sciences.
 
 `2024`
-**Chair**. Committee to Review the Learning Goals of THFS-101.
+**Chair**. Committee to Review the Learning Goals of THFS distribution. School of Arts & Sciences.
+
+`2024`
+**Chair**. Committee to Review the Learning Goals of THFS-101. School of Arts & Sciences.
 
 `2024`
 **Faculy Senate Representative**. Task Force on Perception of Value in Higher Education (A): Develop a multi-faceted approach to the Bonaventure educational experience that highlights strong academic quality and ethical leadership informed by our Catholic Franciscan mission. University Planning Commission.
 
 `2023–24`
-**Workshop co-facilitator**. "Living like a Franciscan" Workshop.
+**Workshop co-facilitator**. "Living like a Franciscan" Workshop (organized by Dr. Russell Woodruff, chair of philosophy department).
 
 `2023`
 **Committee member**. Search for Interim Dean of Arts and Sciences (2023–24).
@@ -227,6 +233,11 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 **Session chair**. "Franciscan Models." Trust and the Franciscan Tradition. Second Annual *Franciscan Connections* Virtual Conference. June 23–24.
 
 **Session co-organizer** (with [John R. Kern](https://seaver.pepperdine.edu/academics/faculty/john-kern/), Pepperdine University). "Franciscan–Dominican Conversations in the Thirteenth Century." Conference on Medieval Philosophy and Theology. University of Notre Dame. May 19–21.
+
+### other
+
+`2025`
+**Invited participant**. Province of Our Lady of Guadalupe Synod. Order of Friars Minor.
 
 
 ### past
@@ -307,9 +318,7 @@ __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 `2024`
 **Valley & Ridge: Sustainability across the Curriculum Workshop**. Dickinson College. May 21–23.
 
-**Network for Vocation in Undergraduate Education**. Council of Independent Colleges. Atlanta. March 21–23.
-
-**Syllabus Quick Fix! – Writing Measurable Objectives Workshop**. Center for Attention, Learning, and Memory. St. Bonaventure University. March 19.
+**Network for Vocation in Undergraduate Education (NetVUE) National Conference: Vocation for the Life of the World**. Council of Independent Colleges. Atlanta. March 21–23.
 
 `2023`
 **AI Detection Tools & International Students Workshop**. St. Bonaventure University. November 20.
@@ -360,4 +369,4 @@ Available upon request.
 
 ## last updated
 
-January 2025.
+March 2025.
