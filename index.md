@@ -315,10 +315,15 @@ __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 
 ## professional development
 
+`2025`
+**Class Participation Workshop**. School of Arts & Sciences. St. Bonaventure University. February 26.
+
 `2024`
 **Valley & Ridge: Sustainability across the Curriculum Workshop**. Dickinson College. May 21–23.
 
 **Network for Vocation in Undergraduate Education (NetVUE) National Conference: Vocation for the Life of the World**. Council of Independent Colleges. Atlanta. March 21–23.
+
+**Syllabus Quick Fix! – Writing Measurable Objectives Workshop**. Center for Attention, Learning, and Memory. St. Bonaventure University. March 19.
 
 `2023`
 **AI Detection Tools & International Students Workshop**. St. Bonaventure University. November 20.
