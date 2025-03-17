@@ -165,6 +165,9 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 
 ### to SBU
 
+`2025–`
+**Council member**. Environmental Studies Council.
+
 `2024–`
 **Committee member**. Search for tenure-track hire in Theology & Franciscan Studies.
 
