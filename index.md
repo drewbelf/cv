@@ -177,6 +177,12 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 `2024–`
 **Co-chair for Arts & Sciences, individualized majors, and the general education programs**. Faculty Senate Curriculum Committee.
 
+`2024–`
+**Student advising**. Major Program. Department of Theology & Franciscan Studies.
+
+`2024–`
+**Honors project reader**. Kyler Huels (Criminology & Political Science, ’27). Title to be determined.
+
 `2023–`
 **Arts representative**. Faculty Senate.
 
@@ -210,7 +216,7 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 **Honors project reader**. Amara Young (Philosophy, ’23). "An Ethical Examination of Laptop Ban Policies in Undergraduate Courses."
 
 `2022–23`
-**Student advising**. Major & Minor Programs. Department of Theology & Franciscan Studies.
+**Student advising**. Major Program. Department of Theology & Franciscan Studies.
 
 `2021–23`
 **Committee member**. Self-Evaluation Committee for Middle States Accreditation Standard 1: Mission and Goals.
