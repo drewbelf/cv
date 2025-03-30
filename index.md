@@ -330,6 +330,11 @@ __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 `2024`
 **Valley & Ridge: Sustainability across the Curriculum Workshop**. Dickinson College. May 21–23.
 
+**Week of Development**. Faculty Resource Center, St. Bonaventure University. May 13–17.
+- Modeling Multiple Means of Engagement in a College Classroom. Presented by Dr. Pamina Abkowitz.
+- Our Franciscan Mission: Looking Outward and Looking Inward. Presented by Fr. Stephen Mimnaugh.
+- Working to Mission: Franciscan Values in the Classroom. Presented by Fr. David Couturier.
+
 **Network for Vocation in Undergraduate Education (NetVUE) National Conference: Vocation for the Life of the World**. Council of Independent Colleges. Atlanta. March 21–23.
 
 **Syllabus Quick Fix! – Writing Measurable Objectives Workshop**. Center for Attention, Learning, and Memory. St. Bonaventure University. March 19.
