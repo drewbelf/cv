@@ -199,10 +199,10 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 **Co-facilitator**. *Braiding Sweetgrass* Reading Group (organized by Dr. Karie Altman). School of Arts & Sciences.
 
 `2024`
-**Chair**. Committee to Review the Learning Goals of THFS distribution. School of Arts & Sciences.
+**Chair**. Committee to Review the Learning Goals of <span style="font-variant:small-caps;">thfs</span> distribution. School of Arts & Sciences.
 
 `2024`
-**Chair**. Committee to Review the Learning Goals of THFS-101. School of Arts & Sciences.
+**Chair**. Committee to Review the Learning Goals of <span style="font-variant:small-caps;">thfs</span>-101. School of Arts & Sciences.
 
 `2024`
 **Faculy Senate Representative**. Task Force on Perception of Value in Higher Education (A): Develop a multi-faceted approach to the Bonaventure educational experience that highlights strong academic quality and ethical leadership informed by our Catholic Franciscan mission. University Planning Commission.
@@ -338,7 +338,7 @@ __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 - Our Franciscan Mission: Looking Outward and Looking Inward. Presented by Fr. Stephen Mimnaugh.
 - Working to Mission: Franciscan Values in the Classroom. Presented by Fr. David Couturier.
 
-**Network for Vocation in Undergraduate Education (NetVUE) National Conference: Vocation for the Life of the World**. Council of Independent Colleges. Atlanta. March 21–23.
+**Network for Vocation in Undergraduate Education (Net<span style="font-variant:small-caps;">vue</span>) National Conference: Vocation for the Life of the World**. Council of Independent Colleges. Atlanta. March 21–23.
 
 **Syllabus Quick Fix! – Writing Measurable Objectives Workshop**. Center for Attention, Learning, and Memory. St. Bonaventure University. March 19.
 
