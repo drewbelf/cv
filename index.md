@@ -63,7 +63,7 @@ __Bachelor of Arts__. Theology & Philosophy, summa cum laude.
 
 ### scholarly chapter
 
-"Medieval Receptions." In *The Cambridge Companion to Christology*, edited by Timothy Pawl and Michael Peterson. Cambridge: Cambridge University Press (under contract and accepted by editors).
+"Medieval Receptions." In *The Cambridge Companion to Christology*, edited by Timothy Pawl and Michael Peterson. Cambridge: Cambridge University Press (scheduled for publication in fall 2025).
 
 ### book reviews
 
@@ -101,8 +101,6 @@ Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic P
 Invited Panelist. [Illuminating Franciscan Sources in the Classroom: Francis, Clare, and Beyond](https://afcu2023.siena.edu/session/illuminating-franciscan-sources-in-the-classroom-francis-clare-and-beyond/). Association of Franciscan Colleges and Universities Symposium. Siena College. June 20–22.
 
 "Satisfaction, Resurrection, and Justification in the *Summa halensis*." The Last Things in Alexander of Hales and the Early Franciscan School. Collegio SantʼIsidoro, Roma. May 29–30.
-
-"Recording Class and Inclusive Teaching." Diversity, Equity, and Inclusion Lecture Series. St. Bonaventure University. April 18. Co-presented with Alex Gillham (St. Bonaventure University).
 
 `2022`
 Invited paper. "Notes on 'Hypostasis' in the Christologies of Albert the Great and the *Summa halensis*." Paper on "Bonaventure a Reader of Albert" Panel, sponsored by the Boston Colloquy for Historical Theology. 47th Annual International Patristic, Medieval, and Renaissance Studies Conference. Villanova University. October 21–23.
@@ -150,7 +148,9 @@ Response to John R. Kern, “Dionysian Hierarchy in Thomas Aquinas’s Late Paul
 ### non-academic
 
 `2023`
-Invited reflection. "Francis of Assisi and the Christmas Crèche." Christmas Tree Lighting Ceremony. St. Bonaventure University.
+Invited reflection. "Francis of Assisi and the Christmas Crèche." Christmas Tree Lighting Ceremony. December 4. St. Bonaventure University.
+
+"Recording Class and Inclusive Teaching." Diversity, Equity, and Inclusion Lecture Series. St. Bonaventure University. April 18. Co-presented with Alex Gillham (St. Bonaventure University).
 
 `2022`
 Invited panelist. "A Colloquium of Companions: Closing Reflections." [Ignatius Brady Lecture Series](https://www.sbu.edu/news/news-items/2021/07/07/franciscan-institute-at-st.-bonaventure-to-present-ignatius-brady-lecture-series). April 20. In conversation with Fr. David Couturier, O.F.M. Cap. (Franciscan Institute, St. Bonaventure University) and Aaron Gies (St. Bonaventure University).
@@ -277,6 +277,9 @@ __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 
 ## honors, awards & fellowships
 
+`2025`
+**Francisacn Pedagogy across the Curriculum**. Keenan Grant (application pending), co-applied with Kathryn Caliva Smart. St. Bonaventure University.
+
 `2023`
 **Research grant** for study in Rome. Franciscan Institute. St. Bonaventure University.
 
@@ -331,7 +334,7 @@ __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 **Valley & Ridge: Sustainability across the Curriculum Workshop**. Dickinson College. May 21–23.
 
 **Week of Development**. Faculty Resource Center, St. Bonaventure University. May 13–17.
-- Modeling Multiple Means of Engagement in a College Classroom. Presented by Dr. Pamina Abkowitz.
+- Modeling Multiple Means of Engagement in a College Classroom. Presented by Pamina Abkowitz.
 - Our Franciscan Mission: Looking Outward and Looking Inward. Presented by Fr. Stephen Mimnaugh.
 - Working to Mission: Franciscan Values in the Classroom. Presented by Fr. David Couturier.
 
@@ -388,4 +391,4 @@ Available upon request.
 
 ## last updated
 
-March 2025.
+April 2025.
