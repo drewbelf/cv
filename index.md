@@ -183,6 +183,9 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 `2024–`
 **Honors project reader**. Kyler Huels (Criminology & Political Science, ’27). Title to be determined.
 
+`2024–`
+**Faculty Mentor**. Faculty Mentorship Program. School of Arts & Sciences.
+
 `2023–`
 **Arts representative**. Faculty Senate.
 
