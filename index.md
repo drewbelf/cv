@@ -281,7 +281,7 @@ __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 ## honors, awards & fellowships
 
 `2025`
-**Francisacn Pedagogy across the Curriculum**. Keenan Grant (application pending), co-applied with Kathryn Caliva Smart. St. Bonaventure University.
+**Franciscan Pedagogy across the Curriculum**. Keenan Grant (application pending), co-applied with Kathryn Caliva Smart. St. Bonaventure University.
 
 `2023`
 **Research grant** for study in Rome. Franciscan Institute. St. Bonaventure University.
