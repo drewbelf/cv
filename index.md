@@ -166,10 +166,10 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 ### to SBU
 
 `2025–`
-**Council member**. Environmental Studies Council.
+**Faculty Senate Representative**. Board of Trustees Committee on Franciscan Mission.
 
-`2024–`
-**Committee member**. Search for tenure-track hire in Theology & Franciscan Studies.
+`2025–`
+**Council member**. Environmental Studies Council.
 
 `2024–`
 **Faculty Senate Representative**. Academic Advisory Council.
@@ -180,11 +180,11 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 `2024–`
 **Student advising**. Major Program. Department of Theology & Franciscan Studies.
 
-`2024–`
-**Honors project reader**. Kyler Huels (Criminology & Political Science, ’27). Title to be determined.
-
-`2024–`
-**Faculty Mentor**. Faculty Mentorship Program. School of Arts & Sciences.
+`2023–`
+**Honors project reader**. Honors Program.
+- Eoghan Murphy (Cybersecurity, ’27). "Persistant Archive for WSBU 88.3."
+- Kyler Huels (Criminology & Political Science, ’27). "Assassinations: Calculated Risk or Politically Motivated?"
+- Amara Young (Philosophy, ’23). "An Ethical Examination of Laptop Ban Policies in Undergraduate Courses."
 
 `2023–`
 **Arts representative**. Faculty Senate.
@@ -192,7 +192,13 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 `2023–`
 **Faculty co-advisor**. Film Club.
 
-`2022–`
+`2024–25`
+**Committee member**. Search for tenure-track hire in Theology & Franciscan Studies.
+
+`2024–25`
+**Faculty Mentor**. Faculty Mentorship Program. School of Arts & Sciences.
+
+`2022–25`
 **Faculty advisor**. College Democrats.
 
 `2025`
@@ -215,8 +221,6 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 
 `2023`
 **Committee member**. Search for Interim Dean of Arts and Sciences (2023–24).
-
-**Honors project reader**. Amara Young (Philosophy, ’23). "An Ethical Examination of Laptop Ban Policies in Undergraduate Courses."
 
 `2022–23`
 **Student advising**. Major Program. Department of Theology & Franciscan Studies.
@@ -394,4 +398,4 @@ Available upon request.
 
 ## last updated
 
-April 2025.
+May 2025.
