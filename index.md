@@ -90,6 +90,9 @@ Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic P
 
 ### academic
 
+`2025`
+Proposal submitted for "The Word’s Divine Dignity and Human Hypostasis in Early Franciscan Soteriology." 50th Annual International Patristic, Medieval, and Renaissance Studies Conference. Villanova University. October 24–26.
+
 `2024`
 "*Est enim humilitas ostium sapientiae*: Bonaventure on Humility, Poverty, and Teaching Theology." Paper on "Mendicant Charisms and their Discontents: The Secular-Mendicant Controversies at Paris" Panel. 49th Annual International Patristic, Medieval, and Renaissance Studies Conference. Villanova University. November 1–3.
 
@@ -147,6 +150,9 @@ Response to John R. Kern, “Dionysian Hierarchy in Thomas Aquinas’s Late Paul
 
 ### non-academic
 
+`2025`
+Reading group leader. "Thursdays with St. Francis of Assisi: A Summer Book Club." On Volker Leppin, *Francis of Assisi: The Life of a Restless Saint*, translated by Rhys S. Bezzant (Yale University Press, 2025). June 12, 19, 26.
+
 `2023`
 Invited reflection. "Francis of Assisi and the Christmas Crèche." Christmas Tree Lighting Ceremony. December 4. St. Bonaventure University.
 
@@ -191,6 +197,9 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 
 `2023–`
 **Faculty co-advisor**. Film Club.
+
+`2025`
+**Subcommittee member**. Subcommittee for assessing the major program in Theology & Franciscan Studies.
 
 `2024–25`
 **Committee member**. Search for tenure-track hire in Theology & Franciscan Studies.
@@ -398,4 +407,4 @@ Available upon request.
 
 ## last updated
 
-May 2025.
+July 2025.
