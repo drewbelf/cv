@@ -56,14 +56,14 @@ __Bachelor of Arts__. Theology & Philosophy, summa cum laude.
 ### peer-reviewed articles
 
 `2024`
-"Hypostases in Christ and the Work of Scholastic Christology: The *Summa halensis* and Albert the Great’s *Commentary on the Sentences*." *Franciscan Studies* 82 (2024): 29–48.
+"Hypostases in Christ and the Work of Scholastic Christology: The *Summa halensis* and Albert the Great’s *Commentary on the Sentences*." *Franciscan Studies* 82 (2024): 29–48. DOI: [10.1353/frc.2024.a956569](https://doi.org/10.1353/frc.2024.a956569).
 
 `2014`
 “Raining on the Absurd: Entering into Solitude with Thomas Merton.” *The Reed* 16 (2014): 35–45.
 
 ### scholarly chapter
 
-"Medieval Receptions." In *The Cambridge Companion to Christology*, edited by Timothy Pawl and Michael Peterson. Cambridge: Cambridge University Press ([forthcoming](https://www.cambridge.org/core/books/cambridge-companion-to-christology/A18626A61A952135CF282EC67878D342) September 2025).
+"Medieval Receptions." In *The Cambridge Companion to Christology*, edited by Timothy Pawl and Michael Peterson. Cambridge: Cambridge University Press (2025), 94–110. DOI: [10.1017/9781009307987.007](https://doi.org/10.1017/9781009307987.007).
 
 ### book reviews
 
@@ -89,9 +89,6 @@ Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic P
 ## presentations
 
 ### academic
-
-`2025`
-Proposal submitted for "The Word’s Divine Dignity and Human Hypostasis in Early Franciscan Soteriology." 50th Annual International Patristic, Medieval, and Renaissance Studies Conference. Villanova University. October 24–26.
 
 `2024`
 "*Est enim humilitas ostium sapientiae*: Bonaventure on Humility, Poverty, and Teaching Theology." Paper on "Mendicant Charisms and their Discontents: The Secular-Mendicant Controversies at Paris" Panel. 49th Annual International Patristic, Medieval, and Renaissance Studies Conference. Villanova University. November 1–3.
@@ -172,16 +169,13 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 ### to SBU
 
 `2025–`
-**Faculty Senate Representative**. Board of Trustees Committee on Franciscan Mission.
-
-`2025–`
 **Council member**. Environmental Studies Council.
 
 `2024–`
 **Faculty Senate Representative**. Academic Advisory Council.
 
 `2024–`
-**Co-chair for Arts & Sciences, individualized majors, and the general education programs**. Faculty Senate Curriculum Committee.
+**Co-chair for academic programs in the Arts & Sciences, individualized major programs, and the General Education Curriculum**. Faculty Senate Curriculum Committee.
 
 `2024–`
 **Student advising**. Major Program. Department of Theology & Franciscan Studies.
@@ -407,4 +401,4 @@ Available upon request.
 
 ## last updated
 
-August 2025.
+October 2025.
