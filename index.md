@@ -178,7 +178,7 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 **Co-chair for academic programs in the Arts & Sciences, individualized major programs, and the General Education Curriculum**. Faculty Senate Curriculum Committee.
 
 `2024–`
-**Student advising**. Major Program. Department of Theology & Franciscan Studies.
+**Student advising**. Major Program in Theology. Department of Theology & Franciscan Studies.
 
 `2023–`
 **Honors project reader**. Honors Program.
@@ -401,4 +401,4 @@ Available upon request.
 
 ## last updated
 
-October 2025.
+February 2026.
