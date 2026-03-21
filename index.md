@@ -63,9 +63,14 @@ __Bachelor of Arts__. Theology & Philosophy, summa cum laude.
 
 ### scholarly chapter
 
+`2025`
 "Medieval Receptions." In *The Cambridge Companion to Christology*, edited by Timothy Pawl and Michael Peterson. Cambridge: Cambridge University Press (2025), 94–110. DOI: [10.1017/9781009307987.007](https://doi.org/10.1017/9781009307987.007).
 
 ### book reviews
+
+Of Henrietta Leyser and Robert Sweetman, eds., *Studies in the Sacred Page: Encounters with Medieval Manuscripts, Texts, and Exegesis. A Book of Essays in Honour of Lesley Smith* (Pontifical Institute of Mediaeval Studies, 2022), in *Speculum* (forthcoming).
+
+Of Howard A. Snyder, *Francis of Assisi, Movement Maker: The Unconventional Leadership of a Simple Saint* (Orbis Books, 2024), in *Journal of Social Encounters* (forthcoming).
 
 `2023`
 Of Travis E. Ables, *The Body of the Cross: Holy Victims and the Invention of the Atonement* (Fordham University Press, 2021), in [*Reading Religion* (2023)](https://readingreligion.org/9780823298006/the-body-of-the-cross/).
