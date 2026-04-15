@@ -291,6 +291,10 @@ __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 
 ## honors, awards & fellowships
 
+`2026`
+
+**Leo E. Keenan, Jr. Faculty Appreciation Award**. St. Bonaventure University.
+
 `2025`
 **Franciscan Pedagogy across the Curriculum**. Keenan Grant ($5,930), co-written with Kathryn Caliva Smart. St. Bonaventure University.
 
@@ -405,4 +409,4 @@ Available upon request.
 
 ## last updated
 
-March 2026.
+April 2026.
