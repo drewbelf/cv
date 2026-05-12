@@ -293,6 +293,8 @@ __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 
 `2026`
 
+**Junior Faculty Recognition Award for Professional Excellence**. St. Bonaventure University.
+
 **Leo E. Keenan, Jr. Faculty Appreciation Award**. St. Bonaventure University.
 
 `2025`
