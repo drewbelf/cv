@@ -169,9 +169,6 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 
 ### to SBU
 
-`2026–`
-**Chair**. Search committee for visiting assistant professor in theology & Franciscan studies.
-
 `2025–`
 **Council member**. Environmental Studies Council.
 
@@ -195,6 +192,9 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 
 `2023–`
 **Faculty co-advisor**. Film Club.
+
+`2026`
+**Chair**. Search committee for visiting assistant professor in theology & Franciscan studies.
 
 `2025`
 **Subcommittee member**. Subcommittee for assessing the major program in Theology & Franciscan Studies.
@@ -292,8 +292,7 @@ __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 ## honors, awards & fellowships
 
 `2026`
-
-**Junior Faculty Recognition Award for Professional Excellence**. St. Bonaventure University.
+**Junior Faculty Award for Professional Excellence**. St. Bonaventure University.
 
 **Leo E. Keenan, Jr. Faculty Appreciation Award**. St. Bonaventure University.
 
@@ -411,4 +410,4 @@ Available upon request.
 
 ## last updated
 
-April 2026.
+May 2026.
