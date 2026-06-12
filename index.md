@@ -346,6 +346,9 @@ __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 
 ## professional development
 
+`2026`
+**Learning Is a Superpower**. Presented by  Althea N. Kaminske. School of Education Spring Forum. St. Bonaventure University. April 7.
+
 `2025`
 **Class Participation Workshop**. School of Arts & Sciences. St. Bonaventure University. February 26.
 
