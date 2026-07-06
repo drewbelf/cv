@@ -68,6 +68,9 @@ __Bachelor of Arts__. Theology & Philosophy, summa cum laude.
 
 ### book reviews
 
+`2026`
+Of Henrietta Leyser and Robert Sweetman, eds., *Studies in the Sacred Page: Encounters with Medieval Manuscripts, Texts, and Exegesis. A Book of Essays in Honour of Lesley Smith* (Toronto: Pontifical Institute of Mediaeval Studies, 2022), in *Speculum: A Journal of Medieval Studies* 101, no. 3 (2026): 983–984.
+
 `2023`
 Of Travis E. Ables, *The Body of the Cross: Holy Victims and the Invention of the Atonement* (Fordham University Press, 2021), in [*Reading Religion* (2023)](https://readingreligion.org/9780823298006/the-body-of-the-cross/).
 
