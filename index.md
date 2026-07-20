@@ -131,7 +131,7 @@ Response to John R. Kern, “Re-membering the Mystical Body: The Expansion of th
 “*Homo assumptus* in the Halensian School?” Historical Theology Colloquium. Boston College. May 15.
 
 `2018`
-“On the Fittingness of Filial Incarnation in Two Summae.” The Theology of Thomas Aquinas: Sources, Insights, and Influences. Mundelein Seminary. October 3.
+“On the Fittingness of Filial Incarnation in Two *Summae*.” The Theology of Thomas Aquinas: Sources, Insights, and Influences. Mundelein Seminary. October 3.
 
 “Exemplarity and Trinitarian Vestiges in Alexander of Hales’ *Glossa Sententiarum*.” Alexander of Hales and Early Franciscan Masters. Collegio SantʼIsidoro, Roma. June 9–10.
 
@@ -142,14 +142,17 @@ Response to John R. Kern, “Re-membering the Mystical Body: The Expansion of th
 `2017`
 Response to John R. Kern, “Dionysian Hierarchy in Thomas Aquinas’s Late Pauline Ecclesiology: A Look at the Commentary on Romans.” Historical Theology Colloquium. Boston College. December 6.
 
-“The Preacher and the Doctor: Merton’s Engagement with the Theme of Mercy in Albert Camus’s The Plague.” Fifteenth General Meeting of the International Thomas Merton Society. St. Bonaventure University. June 15–18.
+“The Preacher and the Doctor: Merton’s Engagement with the Theme of Mercy in Albert Camus’s *The Plague*.” Fifteenth General Meeting of the International Thomas Merton Society. St. Bonaventure University. June 15–18.
 
 “On Reading Maximus as a ‘Scotist’.” Emerging Scholars Conference. Loyola University Maryland. April 21.
 
 `2015`
 “Raining on the Absurd: Existence and Solitude in Albert Camus and Thomas Merton.” Honors Program Symposium. St. Bonaventure University. April 18.
 
-### non-academic
+### public
+
+`2026`
+Invited interview. The Future of Franciscan Studies Conference. Franciscan Institute (St. Bonaventure University). July 13.
 
 `2025`
 Reading group leader. "Thursdays with St. Francis of Assisi: A Summer Book Club." On Volker Leppin, *Francis of Assisi: The Life of a Restless Saint*, translated by Rhys S. Bezzant (Yale University Press, 2025). June 12, 19, 26.
