@@ -3,7 +3,7 @@ layout: cv
 title: cv. andrew belfield dot com
 ---
 # Andrew Gertner Belfield
-assistant professor of theology & Franciscan studies
+assistant professor of theology & Franciscan studies\s
 
 <div id="webaddress">
 <a href="mailto:abelfiel@sbu.edu">abelfiel@sbu.edu</a>
