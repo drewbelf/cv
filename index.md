@@ -53,20 +53,18 @@ __Bachelor of Arts__. Theology & Philosophy, summa cum laude.
 
 ## publications
 
-### peer-reviewed articles
-
-`2024`
-"Hypostases in Christ and the Work of Scholastic Christology: The *Summa halensis* and Albert the Great’s *Commentary on the Sentences*." *Franciscan Studies* 82 (2024): 29–48. DOI: [10.1353/frc.2024.a956569](https://doi.org/10.1353/frc.2024.a956569).
-
-`2014`
-“Raining on the Absurd: Entering into Solitude with Thomas Merton.” *The Reed* 16 (2014): 35–45.
-
-### scholarly chapter
+### academic essays
 
 `2025`
 "Medieval Receptions." In *The Cambridge Companion to Christology*, edited by Timothy Pawl and Michael Peterson. Cambridge: Cambridge University Press (2025), 94–110. DOI: [10.1017/9781009307987.007](https://doi.org/10.1017/9781009307987.007).
 
+`2024`
+"Hypostases in Christ and the Work of Scholastic Christology: The *Summa halensis* and Albert the Great’s *Commentary on the Sentences*." *Franciscan Studies* 82 (2024): 29–48. DOI: [10.1353/frc.2024.a956569](https://doi.org/10.1353/frc.2024.a956569).
+
 ### book reviews
+
+`2026`
+Of Howard A. Snyder, *Francis of Assisi, Movement Maker: The Unconventional Leadership of a Simple Saint* (Maryknoll, NY: Orbis Books, 2024), in *Journal of Social Encounters* (forthcoming in August/September).
 
 `2026`
 Of Henrietta Leyser and Robert Sweetman, eds., *Studies in the Sacred Page: Encounters with Medieval Manuscripts, Texts, and Exegesis. A Book of Essays in Honour of Lesley Smith* (Toronto: Pontifical Institute of Mediaeval Studies, 2022), in *Speculum: A Journal of Medieval Studies* 101, no. 3 (2026): 983–984.
@@ -89,6 +87,9 @@ Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic P
 
 `2017`
 “The Latest in St. Bonaventure Scholarship: When Emerging and Senior Scholars Meet.” *The Cord* 67, no. 3 (2017): 20–22.
+
+`2014`
+“Raining on the Absurd: Entering into Solitude with Thomas Merton.” *The Reed* 16 (2014): 35–45.
 
 ## presentations
 
@@ -419,4 +420,4 @@ Available upon request.
 
 ## last updated
 
-May 2026.
+August 2026.
