@@ -33,7 +33,7 @@ __Bachelor of Arts__. Theology & Philosophy, summa cum laude.
 
 
 
-## teaching appointments
+## teaching appointment
 
 `2021–`
 **Assistant Professor**. Department of Theology and Franciscan Studies. St. Bonaventure University.
@@ -45,17 +45,13 @@ __Bachelor of Arts__. Theology & Philosophy, summa cum laude.
 - <span style="font-variant:small-caps;">thfs</span>-360 "Early Christian History to the Reformation"
 - <span style="font-variant:small-caps;">lat</span>-201 "Introduction to Latin Authors of the Republic"
 
-`2018–20`
-**Teaching Assistant**. Theology Department. Boston College.
-- <span style="font-variant:small-caps;">theo</span>-1016/1017 "Introduction to Christian Theology I & II," with Boyd Taylor Coolman
-- <span style="font-variant:small-caps;">theo</span>-1019/<span style="font-variant:small-caps;">phil</span>-1019 "Perspectives in Western Culture II," with Andrew Prevot
-- <span style="font-variant:small-caps;">theo</span>-1402 "God, Self, and Society," with Brian Robinette
 
 ## honors & awards
 
 `2026`
 **Junior Faculty Award for Professional Excellence**. St. Bonaventure University.
 
+`2026`
 **Leo E. Keenan, Jr. Faculty Appreciation Award**. St. Bonaventure University.
 
 `2018`
@@ -67,9 +63,6 @@ __Bachelor of Arts__. Theology & Philosophy, summa cum laude.
 `2015`
 **Ideal Bonaventure Student**. St. Bonaventure University.
 
-**Senior Theology Award**. St. Bonaventure University.
-
-**Sister Mary Anthony Brown Philosophy Award**. St. Bonaventure University.
 
 ## publications
 
@@ -95,6 +88,7 @@ Of Travis E. Ables, *The Body of the Cross: Holy Victims and the Invention of th
 `2022`
 Of Johannes Jacobus Knecht, *Verus Filius Dei Incarnatus: The Christologies of Paulinus II of Aquileia, Benedict of Aniane, and Agobard of Lyon in the Context of the Felician Controversy* (Aschendorff Verlag, 2022), in *Archa Verbi* 19 (2022): 212–215.
 
+`2022`
 Of Thomas Merton, Patrick F. O'Connell (ed.), *Cistercian Fathers and Forefathers: Essays and Conferences* (New City Press, 2018), in [*Reading Religion* (2022)](https://readingreligion.org/books/cistercian-fathers-and-forefathers).
 
 `2021`
@@ -111,66 +105,74 @@ Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic P
 `2014`
 “Raining on the Absurd: Entering into Solitude with Thomas Merton.” *The Reed* 16 (2014): 35–45.
 
-## presentations
 
-### academic
+## conference activity
+
+### presentations
 
 `2024`
 "*Est enim humilitas ostium sapientiae*: Bonaventure on Humility, Poverty, and Teaching Theology." Paper on "Mendicant Charisms and their Discontents: The Secular-Mendicant Controversies at Paris" Panel. 49th Annual International Patristic, Medieval, and Renaissance Studies Conference. Villanova University. November 1–3.
 
+`2024`
 "Penance and Satisfaction in Alexander of Hales's *Glossa in quatuor libros Sententiarum*." *Qui primus legit*: Studies in Sentence Commentaries on the Eighth Centenary of Alexander of Hales’s Lectures. St. Bonaventure University. June 11–12.
 
+`2024`
 "'Worthy Acts of Penance' in Early Franciscan Soteriology." 78th Annual Convention of the Catholic Theological Society of America. Baltimore. June 13–16.
 
 `2023`
 Invited Panelist. [Illuminating Franciscan Sources in the Classroom: Francis, Clare, and Beyond](https://afcu2023.siena.edu/session/illuminating-franciscan-sources-in-the-classroom-francis-clare-and-beyond/). Association of Franciscan Colleges and Universities Symposium. Siena College. June 20–22.
 
+`2023`
 "Satisfaction, Resurrection, and Justification in the *Summa halensis*." The Last Things in Alexander of Hales and the Early Franciscan School. Collegio SantʼIsidoro, Roma. May 29–30.
 
 `2022`
 Invited paper. "Notes on 'Hypostasis' in the Christologies of Albert the Great and the *Summa halensis*." Paper on "Bonaventure a Reader of Albert" Panel, sponsored by the Boston Colloquy for Historical Theology. 47th Annual International Patristic, Medieval, and Renaissance Studies Conference. Villanova University. October 21–23.
 
+`2022`
 "Penal Solidarity: A Reading of Atonement according to the *Summa halensis*." Paper on "Franciscan–Dominican Conversations in the Thirteenth Century" Panel. Medieval Philosophy and Theology Conference. University of Notre Dame. May 19–21.
 
 `2021`
-"Christ's Penitential Human Nature: The *coassumpta* according to the *Summa halensis*." Historical Theology Colloquium. Boston College. April 20.
-
 “Basic Human Communities: An Alternative to Zoom Worship in the Era of <span style="font-variant:small-caps;">covid</span>.” Graduate Student Conference on Pandemic & Religion. The Boisi Center for Religion and American Public Life. Boston College ([online due to <span style="font-variant:small-caps;">covid</span>-19](https://www.bc.edu/content/bc-web/centers/boisi-center/events/archive/spring-2021-events/pandemic-and-religion.html#paper_session_iii_b_religious_institutions_and_practices_)). February 27. Coauthored with Laurel Marshall Potter (Boston College), Kelly Kossar (Congregation Kehillath Israel), and Elli Pripas (Hebrew College).
 
 `2020`
 “Who Is *iste homo* Jesus? A Halensian Contribution.” Christ among the Disciplines. Online interdisciplinary conference. December 11–13.
 
+`2020`
 “History in Crisis? How Augustine Reads John’s Apocalypse.” 45th Annual International Patristic, Medieval, and Renaissance Studies Conference. Villanova University (online due to <span style="font-variant:small-caps;">covid</span>-19). October 16–18.
 
+`2020`
 “*Christum esse confitemur, ergo Christus est unum*: the Early Franciscans and Thomas Aquinas on the Logical and Ontological Unity of Christ.” Thomas Aquinas and the Crisis of Christology. Ave Maria University. February 6–8.
 
 `2019`
-Response to John R. Kern, “Re-membering the Mystical Body: The Expansion of the Gratia Gratis Data in 13th Century Mendicant Theology.” Historical Theology Colloquium. Boston College. September 25.
-
 “*cibus proportionalis debet esse cibabili*: Alexander of Hales on the Food-Proportionality of the Eucharist.” *Quidam enim dicunt*: Mendicant Theologies before Aquinas and Bonaventure. St. Bonaventure University. July 15–18.
-
-“*Homo assumptus* in the Halensian School?” Historical Theology Colloquium. Boston College. May 15.
 
 `2018`
 “On the Fittingness of Filial Incarnation in Two *Summae*.” The Theology of Thomas Aquinas: Sources, Insights, and Influences. Mundelein Seminary. October 3.
 
+`2018`
 “Exemplarity and Trinitarian Vestiges in Alexander of Hales’ *Glossa Sententiarum*.” Alexander of Hales and Early Franciscan Masters. Collegio SantʼIsidoro, Roma. June 9–10.
 
-“*elegit suspendium anima mea et mortem ossa*: Job 7:15 in Victorine–Franciscan Mystical Ascents of the Soul.” BC STM Conference on Job in the Middle Ages. Boston College School of Theology and Ministry. April 27.
-
-“A Significant Sacrament: St. Bonaventure and Henri de Lubac on the Eucharist.” Historical Theology Colloquium. Boston College. January 16.
-
 `2017`
-Response to John R. Kern, “Dionysian Hierarchy in Thomas Aquinas’s Late Pauline Ecclesiology: A Look at the Commentary on Romans.” Historical Theology Colloquium. Boston College. December 6.
-
 “The Preacher and the Doctor: Merton’s Engagement with the Theme of Mercy in Albert Camus’s *The Plague*.” Fifteenth General Meeting of the International Thomas Merton Society. St. Bonaventure University. June 15–18.
 
-“On Reading Maximus as a ‘Scotist’.” Emerging Scholars Conference. Loyola University Maryland. April 21.
 
-`2015`
-“Raining on the Absurd: Existence and Solitude in Albert Camus and Thomas Merton.” Honors Program Symposium. St. Bonaventure University. April 18.
+### conferences organized
 
-### public
+`2024`
+"*Qui primus legit*: Studies in Sentence Commentaries on the Eighth Centenary of Alexander of Hales’s Lectures." Co-organized with Aaron Gies (St. Bonaventure University) and Kasey Kimball (Boston College). St. Bonaventure University. July 11–12, 2024.
+
+`2023`
+"The Last Things in Alexander of Hales and the Early Franciscan School." Co-organized with Aaron Gies (St. Bonaventure University). Collegio SantʼIsidoro, Roma. May 29–30.
+
+### sessions organized
+
+`2024`
+"Mendicant Charisms and their Discontents: The Secular-Mendicant Controversies at Paris." Co-organized with [John R. Kern](https://seaver.pepperdine.edu/academics/faculty/john-kern/) (Pepperdine University). 49th Annual International Patristic, Medieval, and Renaissance Studies Conference. Villanova University.
+
+`2022`
+"Franciscan–Dominican Conversations in the Thirteenth Century." Co-organized with John R. Kern (Pepperdine University). Conference on Medieval Philosophy and Theology. University of Notre Dame. May 19–21.
+
+## public scholarship
 
 `2026`
 Invited interview. The Future of Franciscan Studies Conference. Franciscan Institute (St. Bonaventure University). July 13.
@@ -181,6 +183,7 @@ Reading group leader. "Thursdays with St. Francis of Assisi: A Summer Book Club.
 `2023`
 Invited reflection. "Francis of Assisi and the Christmas Crèche." Christmas Tree Lighting Ceremony. December 4. St. Bonaventure University.
 
+`2023`
 "Recording Class and Inclusive Teaching." Diversity, Equity, and Inclusion Lecture Series. St. Bonaventure University. April 18. Co-presented with Alex Gillham (St. Bonaventure University).
 
 `2022`
@@ -270,50 +273,14 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 `2022–`
 **Book review editor**. *Franciscan Studies* (ISSN: [00805459](https://www.jstor.org/journal/franstud)).
 
-`2024`
-**Panel co-organizer** (with [John R. Kern](https://seaver.pepperdine.edu/academics/faculty/john-kern/), Pepperdine University). "Mendicant Charisms and their Discontents: The Secular-Mendicant Controversies at Paris." 49th Annual International Patristic, Medieval, and Renaissance Studies Conference. Villanova University.
-
-`2023–24`
-**Conference co-organizer** (with Aaron Gies, St. Bonaventure University; and Kasey Kimball, Boston College). "*Qui primus legit*: Studies in Sentence Commentaries on the Eighth Centenary of Alexander of Hales’s Lectures." St. Bonaventure University. July 11–12, 2024.
-
-`2023`
-**Conference co-organizer** (with Aaron Gies, St. Bonaventure University). "The Last Things in Alexander of Hales and the Early Franciscan School." Collegio SantʼIsidoro, Roma. May 29–30.
-
 `2022`
 **Session chair**. "Franciscan Models." Trust and the Franciscan Tradition. Second Annual *Franciscan Connections* Virtual Conference. June 23–24.
 
-**Session co-organizer** (with John R. Kern, Pepperdine University). "Franciscan–Dominican Conversations in the Thirteenth Century." Conference on Medieval Philosophy and Theology. University of Notre Dame. May 19–21.
 
 ### other
 
 `2025`
 **Invited participant**. Province of Our Lady of Guadalupe Synod. Order of Friars Minor.
-
-
-### past
-
-`2020–21`
-__Graduate assistant__ to the Theology Department. Boston College.
-
-`2020`
-__Subcommittee member__. Tenure and Promotion Process. Boston College School of Theology and Ministry.
-
-__Panel member__. “Living and Learning in Boston.” Boston College Theology Department Accepted Students’ Day. March 13.
-
-`2019–20`
-__Colloquia co-organizer__ (with Christopher McLaughlin, Boston College). Historical Theology Colloquia. Boston College.
-
-`2018–20`
-__Student mentor__ to incoming doctoral students. Boston College.
-
-`2017–18`
-__Research assistant__ to Jeremy D. Wilkins. Boston College.
-
-`2017`
-__Updated [online study guide](https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=11326&itemId=1118869575)__ for Alister E. McGrath, *Christian Theology: An Introduction*, 6th ed. (Malden, Mass.: Wiley-Blackwell, 2017).
-
-`2015–17`
-__Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 
 
 ## grants
@@ -345,26 +312,35 @@ __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 `2024`
 **[Valley & Ridge](https://www.dickinson.edu/info/20052/sustainability/2464/valley_and_ridge): Sustainability across the Curriculum Workshop**. Dickinson College. May 21–23.
 
+`2024`
 **Week of Development**. Faculty Resource Center, St. Bonaventure University. May 13–17.
 - Modeling Multiple Means of Engagement in a College Classroom. Presented by Pamina Abkowitz.
 - Our Franciscan Mission: Looking Outward and Looking Inward. Presented by Fr. Stephen Mimnaugh.
 - Working to Mission: Franciscan Values in the Classroom. Presented by Fr. David Couturier.
 
+`2024`
 **[Network for Vocation in Undergraduate Education](https://cic.edu/networks/netvue/) (Net<span style="font-variant:small-caps;">vue</span>) National Conference: Vocation for the Life of the World**. Council of Independent Colleges. Atlanta. March 21–23.
 
+`2024`
 **Syllabus Quick Fix! – Writing Measurable Objectives Workshop**. Center for Attention, Learning, and Memory. St. Bonaventure University. March 19.
 
 `2023`
 **AI Detection Tools & International Students Workshop**. St. Bonaventure University. November 20.
 
+`2023`
 **Large-Language Models/<span style="font-variant:small-caps;">ai</span> Workshop**. St. Bonaventure University. September 27.
 
 `2022`
 **Workshop on Teaching Argument Mapping**. St. Bonaventure University. September 10.
 
+`2022`
 **PowerPoint and Notetaking: Best Practices Workshop**. Center for Attention, Learning, and Memory. St. Bonaventure University. March 30.
 
+`2022`
 __[Apprenticeship in College Teaching](https://www.bc.edu/content/bc-web/academics/sites/center-for-teaching-excellence/programs-events/graduate-student-programs/Apprenticeship-In-College-Teaching.html)__. Center for Teaching Excellence. Boston College.
+
+`2018–20`
+**Teaching Assistant**. Theology Department. Boston College.
 
 ## languages
 
@@ -384,10 +360,13 @@ French (reading proficiency)
 `2021–`
 **Active member**. [Catholic Theological Society of America](https://www.ctsa-online.org/).
 
+`2021–`
 **Full professional member**. [College Theology Society](http://www.collegetheology.org/).
 
+`2021–`
 **Active member**. [Medieval Academy of America](https://www.medievalacademy.org/).
 
+`2021–`
 **Professional member**. [American Academy of Religion](https://www.aarweb.org/).
 
 `2017–21`
