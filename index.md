@@ -51,6 +51,26 @@ __Bachelor of Arts__. Theology & Philosophy, summa cum laude.
 - <span style="font-variant:small-caps;">theo</span>-1019/<span style="font-variant:small-caps;">phil</span>-1019 "Perspectives in Western Culture II," with Andrew Prevot
 - <span style="font-variant:small-caps;">theo</span>-1402 "God, Self, and Society," with Brian Robinette
 
+## honors & awards
+
+`2026`
+**Junior Faculty Award for Professional Excellence**. St. Bonaventure University.
+
+**Leo E. Keenan, Jr. Faculty Appreciation Award**. St. Bonaventure University.
+
+`2018`
+**3rd prize essay** for “On the Fittingness of Filial Incarnation in Two Summae.” Graduate Student Essay Contest. The Theology of Thomas Aquinas: Sources, Insights, and Influences. Mundelein Seminary.
+
+`2017`
+**Award for Research in Theology**. Loyola University Maryland.
+
+`2015`
+**Ideal Bonaventure Student**. St. Bonaventure University.
+
+**Senior Theology Award**. St. Bonaventure University.
+
+**Sister Mary Anthony Brown Philosophy Award**. St. Bonaventure University.
+
 ## publications
 
 ### academic essays
@@ -296,12 +316,7 @@ __Updated [online study guide](https://bcs.wiley.com/he-bcs/Books?action=index&b
 __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 
 
-## honors, awards & fellowships
-
-`2026`
-**Junior Faculty Award for Professional Excellence**. St. Bonaventure University.
-
-**Leo E. Keenan, Jr. Faculty Appreciation Award**. St. Bonaventure University.
+## grants
 
 `2025`
 **Franciscan Pedagogy across the Curriculum**. Keenan Grant ($5,930), co-written with Kathryn Caliva Smart. St. Bonaventure University.
@@ -312,44 +327,12 @@ __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 `2022`
 **Research grant** for participation in 47th International Patristic, Medieval, and Renaissance Conference. Franciscan Institute. St. Bonaventure University.
 
-`2017–21`
-**University fellowship**. Theology Department. Boston College.
-
 `2018`
-**3rd prize essay** for “On the Fittingness of Filial Incarnation in Two Summae.” Graduate Student Essay Contest. The Theology of Thomas Aquinas: Sources, Insights, and Influences. Mundelein Seminary.
-
 **Research grant** for study in Rome. Franciscan Institute. St. Bonaventure University.
 
 `2017`
 **Research grant** for summer study. Franciscan Institute. St. Bonaventure University.
 
-**Award for Research in Theology**. Loyola University Maryland.
-
-`2015–17`
-**Theological Studies Fellowship**. Loyola University Maryland.
-
-`2015`
-**Ideal Bonaventure Student**. St. Bonaventure University.
-
-**Senior Theology Award**. St. Bonaventure University.
-
-**Sister Mary Anthony Brown Philosophy Award**. St. Bonaventure University.
-
-**Senior Achievement Award**. Department of Residence Life. St. Bonaventure University.
-
-**Daggy Student Scholarship**. International Thomas Merton Society.
-
-`2014`
-**‘High Pass’**. Philosophy senior thesis defense. St. Bonaventure University.
-
-**Commitment Award**. Department of Residence Life. St. Bonaventure University.
-
-`2011–15`
-**Honors Program**. St. Bonaventure University.
-
-**Dean’s List**. St. Bonaventure University.
-
-**Presidential Scholarship**. St. Bonaventure University.
 
 ## professional development
 
