@@ -15,12 +15,8 @@ assistant professor of theology & Franciscan studies
 ## education
 
 `2021`
-__Doctor of Philosophy__. Theology.
+__Doctor of Philosophy__. Historical & Systematic Theology.
 - Boston College
-- Specialization: Historical & Systematic Theology
-- Dissertation: "Foundations of scholastic christology in the *Summa halensis*"
-- Director: Boyd Taylor Coolman
-- Readers: Michael C. Magree, S.J.; Jeremy D. Wilkins; Corey L. Barnes
 
 `2017`
 __Master of Theological Studies__.
@@ -30,7 +26,6 @@ __Master of Theological Studies__.
 __Bachelor of Arts__. Theology & Philosophy, summa cum laude.
 - St. Bonaventure University
 - Honors degree
-
 
 
 ## teaching appointment
