@@ -239,7 +239,7 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 **Co-facilitator**. *Hearing Vocation Differently: Meaning, Purpose, and Identity in the Multi-faith Academy* Reading Group. Office for Mission Integration.
 
 `2025`
-**Co-facilitator**. *Braiding Sweetgrass* Reading Group (organized by Dr. Karie Altman). School of Arts & Sciences.
+**Co-facilitator**. *Braiding Sweetgrass* Reading Group (organized by Karie Altman). School of Arts & Sciences.
 
 `2024`
 **Chair**. Committee to Review the Learning Goals of <span style="font-variant:small-caps;">thfs</span> distribution. School of Arts & Sciences.
@@ -251,7 +251,7 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 **Faculy Senate Representative**. Task Force on Perception of Value in Higher Education (A): Develop a multi-faceted approach to the Bonaventure educational experience that highlights strong academic quality and ethical leadership informed by our Catholic Franciscan mission. University Planning Commission.
 
 `2023–24`
-**Workshop co-facilitator**. "Living like a Franciscan" Workshop (organized by Dr. Russell Woodruff, chair of philosophy department).
+**Workshop co-facilitator**. "Living like a Franciscan" Workshop. Philosophy Department.
 
 `2023`
 **Committee member**. Search for Interim Dean of Arts and Sciences (2023–24).
@@ -271,7 +271,7 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 **Book review editor**. *Franciscan Studies* (ISSN: [00805459](https://www.jstor.org/journal/franstud)).
 
 `2024`
-**Panel co-organizer** (with John R. Kern, Pepperdine University). "Mendicant Charisms and their Discontents: The Secular-Mendicant Controversies at Paris." 49th Annual International Patristic, Medieval, and Renaissance Studies Conference. Villanova University.
+**Panel co-organizer** (with [John R. Kern](https://seaver.pepperdine.edu/academics/faculty/john-kern/), Pepperdine University). "Mendicant Charisms and their Discontents: The Secular-Mendicant Controversies at Paris." 49th Annual International Patristic, Medieval, and Renaissance Studies Conference. Villanova University.
 
 `2023–24`
 **Conference co-organizer** (with Aaron Gies, St. Bonaventure University; and Kasey Kimball, Boston College). "*Qui primus legit*: Studies in Sentence Commentaries on the Eighth Centenary of Alexander of Hales’s Lectures." St. Bonaventure University. July 11–12, 2024.
@@ -282,7 +282,7 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 `2022`
 **Session chair**. "Franciscan Models." Trust and the Franciscan Tradition. Second Annual *Franciscan Connections* Virtual Conference. June 23–24.
 
-**Session co-organizer** (with [John R. Kern](https://seaver.pepperdine.edu/academics/faculty/john-kern/), Pepperdine University). "Franciscan–Dominican Conversations in the Thirteenth Century." Conference on Medieval Philosophy and Theology. University of Notre Dame. May 19–21.
+**Session co-organizer** (with John R. Kern, Pepperdine University). "Franciscan–Dominican Conversations in the Thirteenth Century." Conference on Medieval Philosophy and Theology. University of Notre Dame. May 19–21.
 
 ### other
 
@@ -343,14 +343,14 @@ __Graduate assistant__ to Campus Ministry. Loyola University Maryland.
 **Class Participation Workshop**. School of Arts & Sciences. St. Bonaventure University. February 26.
 
 `2024`
-**Valley & Ridge: Sustainability across the Curriculum Workshop**. Dickinson College. May 21–23.
+**[Valley & Ridge](https://www.dickinson.edu/info/20052/sustainability/2464/valley_and_ridge): Sustainability across the Curriculum Workshop**. Dickinson College. May 21–23.
 
 **Week of Development**. Faculty Resource Center, St. Bonaventure University. May 13–17.
 - Modeling Multiple Means of Engagement in a College Classroom. Presented by Pamina Abkowitz.
 - Our Franciscan Mission: Looking Outward and Looking Inward. Presented by Fr. Stephen Mimnaugh.
 - Working to Mission: Franciscan Values in the Classroom. Presented by Fr. David Couturier.
 
-**Network for Vocation in Undergraduate Education (Net<span style="font-variant:small-caps;">vue</span>) National Conference: Vocation for the Life of the World**. Council of Independent Colleges. Atlanta. March 21–23.
+**[Network for Vocation in Undergraduate Education](https://cic.edu/networks/netvue/) (Net<span style="font-variant:small-caps;">vue</span>) National Conference: Vocation for the Life of the World**. Council of Independent Colleges. Atlanta. March 21–23.
 
 **Syllabus Quick Fix! – Writing Measurable Objectives Workshop**. Center for Attention, Learning, and Memory. St. Bonaventure University. March 19.
 
