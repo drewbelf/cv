@@ -218,7 +218,7 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 `2023–`
 **Faculty co-advisor**. Film Club.
 
-### completed
+### 
 
 `2026`
 **Chair**. Search committee for visiting assistant professor in theology & Franciscan studies.
