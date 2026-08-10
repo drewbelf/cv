@@ -208,7 +208,7 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 
 `2023–`
 **Honors project reader**. Honors Program.
-- Eoghan Murphy (Cybersecurity, ’27). "Persistant Archive for WSBU 88.3."
+- Eoghan Murphy (Cybersecurity, ’27). "Persistent Archive for WSBU 88.3."
 - Kyler Huels (Criminology & Political Science, ’27). "Assassinations: Calculated Risk or Politically Motivated?"
 - Amara Young (Philosophy, ’23). "An Ethical Examination of Laptop Ban Policies in Undergraduate Courses."
 
