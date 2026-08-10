@@ -188,7 +188,7 @@ Invited panelist. "A Colloquium of Companions: Closing Reflections." [Ignatius B
 Invited talk. “On the Prophetic Imagination.” [Ignatian Solidarity Network](https://ignatiansolidarity.net/) [Arrupe Leaders Summit](https://ignatiansolidarity.net/programs/arrupe-leaders-summit/) Maryland, March 10–12.
 
 `2015`
-Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola University Marland. November 19.
+Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola University Maryland. November 19.
 
 ## service
 
@@ -217,6 +217,8 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 
 `2023–`
 **Faculty co-advisor**. Film Club.
+
+### completed
 
 `2026`
 **Chair**. Search committee for visiting assistant professor in theology & Franciscan studies.
@@ -263,7 +265,7 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 `2021–22`
 **Committee member**. Search for tenure-track hire in Theology & Franciscan Studies.
 
-### to the guild
+### to the discipline
 
 `2022–`
 **Book review editor**. *Franciscan Studies* (ISSN: [00805459](https://www.jstor.org/journal/franstud)).
