@@ -198,7 +198,7 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 **Council member**. Environmental Studies Council.
 
 `2024–`
-**Faculty Senate Representative**. Academic Advisory Council.
+**Council member representing the Faculty Senate**. Academic Advisory Council.
 
 `2024–`
 **Co-chair for academic programs in the Arts & Sciences, individualized major programs, and the General Education Curriculum**. Faculty Senate Curriculum Committee.
