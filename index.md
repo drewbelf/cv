@@ -64,18 +64,18 @@ __Bachelor of Arts__. Theology & Philosophy, summa cum laude.
 ### academic essays
 
 `2025`
-"Medieval Receptions." In *The Cambridge Companion to Christology*, edited by Timothy Pawl and Michael Peterson. Cambridge: Cambridge University Press (2025), 94–110. DOI: [10.1017/9781009307987.007](https://doi.org/10.1017/9781009307987.007).
+"Medieval Receptions." In *The Cambridge Companion to Christology*, edited by Timothy Pawl and Michael Peterson. Cambridge: Cambridge University Press (2025), 94–110. <span style="font-variant:small-caps;">doi</span>: [10.1017/9781009307987.007](https://doi.org/10.1017/9781009307987.007).
 
 `2024`
-"Hypostases in Christ and the Work of Scholastic Christology: The *Summa halensis* and Albert the Great’s *Commentary on the Sentences*." *Franciscan Studies* 82 (2024): 29–48. DOI: [10.1353/frc.2024.a956569](https://doi.org/10.1353/frc.2024.a956569).
+"Hypostases in Christ and the Work of Scholastic Christology: The *Summa halensis* and Albert the Great’s *Commentary on the Sentences*." *Franciscan Studies* 82 (2024): 29–48. <span style="font-variant:small-caps;">doi</span>: [10.1353/frc.2024.a956569](https://doi.org/10.1353/frc.2024.a956569).
 
 ### book reviews
 
 `2026`
-Of Howard A. Snyder, *Francis of Assisi, Movement Maker: The Unconventional Leadership of a Simple Saint* (Maryknoll, NY: Orbis Books, 2024), in *Journal of Social Encounters* 10, no. 2 (2026): 414–415.
+Of Howard A. Snyder, *Francis of Assisi, Movement Maker: The Unconventional Leadership of a Simple Saint* (Maryknoll, NY: Orbis Books, 2024), in *Journal of Social Encounters* 10, no. 2 (2026): 414–415. <span style="font-variant:small-caps;">doi</span>: [10.69755/2995-2212.1467](https://doi.org/10.69755/2995-2212.1467).
 
 `2026`
-Of Henrietta Leyser and Robert Sweetman, eds., *Studies in the Sacred Page: Encounters with Medieval Manuscripts, Texts, and Exegesis. A Book of Essays in Honour of Lesley Smith* (Toronto: Pontifical Institute of Mediaeval Studies, 2022), in *Speculum: A Journal of Medieval Studies* 101, no. 3 (2026): 983–984.
+Of Henrietta Leyser and Robert Sweetman, eds., *Studies in the Sacred Page: Encounters with Medieval Manuscripts, Texts, and Exegesis. A Book of Essays in Honour of Lesley Smith* (Toronto: Pontifical Institute of Mediaeval Studies, 2022), in *Speculum: A Journal of Medieval Studies* 101, no. 3 (2026): 983–984. <span style="font-variant:small-caps;">doi</span>: [10.1086/741708](https://doi.org/10.1086/741708).
 
 `2023`
 Of Travis E. Ables, *The Body of the Cross: Holy Victims and the Invention of the Atonement* (Fordham University Press, 2021), in [*Reading Religion* (2023)](https://readingreligion.org/9780823298006/the-body-of-the-cross/).
