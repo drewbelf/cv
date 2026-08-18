@@ -267,6 +267,9 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 
 ### to the discipline
 
+`2026–`
+**Committee member**. Historical Theology Topic Steering Committee. Catholic Theological Society of America.
+
 `2022–`
 **Book review editor**. *Franciscan Studies* (ISSN: [00805459](https://www.jstor.org/journal/franstud)).
 
@@ -299,6 +302,9 @@ Invited talk. "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola
 
 
 ## professional development
+
+`2026`
+**Mental Health First Aid Certification**. National Council for Mental Wellbeing. Offered by St. Bonaventure University. August 18.
 
 `2026`
 **Learning Is a Superpower**. Presented by  Althea N. Kaminske. School of Education Spring Forum. St. Bonaventure University. April 7.
